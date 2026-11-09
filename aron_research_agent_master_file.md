@@ -2111,3 +2111,610 @@ M1 تناسب خدمت؛ M2 محرک و شواهد نیاز؛ M3 ممیزی دا
 - مسیرهای public `robots.txt`, `sitemap.xml`, `wp-sitemap.xml` Boursiran را مستقیم درخواست کردم. به‌جای directives/XML، خروجی‌ها صفحهٔ generic not-found/login/captcha را نشان دادند؛ هیچ credential، captcha، login یا portal access انجام نشد. Endpoint outcomes را به‌عنوان access limitation ثبت کردم، نه نبود sitemap در origin، نه user harm یا علت فنی.
 - فایل اصلی F-079 اکنون تا بخش ۱۳ بسط یافته: affiliate asset audit, currentness, bounded social-profile search, sitemap/robots outcomes و entity-level channel map. شمارش برابر **۶٬۱۷۳ واژه**، gap **۲۳٬۸۲۷**؛ source register تا S12؛ ۵۰ search depth-3؛ همچنان **INCOMPLETE / HOLD / NO OUTREACH**. Buyer readiness/authority/vendor/budget/procurement نامعلوم؛ no commercial score.
 - ادامه: primary/current public sources برای alternate official parent domain و مجمع ۱۴۰۵، رسیدن تدریجی و evidence-linked به ۳۰٬۰۰۰ واژه، و QC source/count. No outreach, contact, form, portal, shareholder login, stream, financial/share analysis, disclosure drafting or system replacement. DotOne overall #1؛ F-037 untouched.
+
+### F-080 — continuation checkpoint: parent PR, profile search, and evidence revision — ۱۴۰۵/۰۸/۱۷
+
+- Reconciled first report with all ۲۲ level-3 searches (۱۲ initial + ۶ channel/parent + ۴ role/appointment) and appended sources F080-S08–S09 to the evidence workbook. Report is now **۲٬۹۱۲ words**; still **INCOMPLETE**, gap **۲۷٬۰۸۸** to ۳۰٬۰۰۰. Workbook priority/research-queue rows now reflect the revised count, ۲۲ searches and S01–S09. Do not call complete.
+- Parent newsroom root `https://www.news-kowsar.ir/` failed direct fetch, but specific articles succeeded: `/fa/news/3033/` and `/fa/news/3061/`. The ۱۴۰۵/۰۸/۰۶ article explicitly credits Kowsar’s PR Department for an interview about Ava Novin’s executive. Direct evidence of parent-group PR output and coverage of F-080—not evidence about F-080’s own team, full group-service ownership, incumbent/vendor, need, budget or buying readiness. A commenter form/captcha was visible in page text; no form, captcha or comment was used.
+- Time-sensitive title difference: F-080’s own ۱۴۰۵/۰۵/۱۴ post called the appointee interim pending regulator approval; the later parent-PR interview calls him CEO. Four targeted queries did not independently verify current formal status. Record as an unresolved chronology/verification gap, not a confirmed inconsistency or crisis.
+- Six bounded social/profile queries did not verify a first-party F-080 social account; similar-name results were excluded. This is not proof no accounts exist. Official site, WordPress sitemap and public content remain directly observed. No forms submitted, shareholder portal visited/tested, or outreach performed.
+- Fit update: Aaron is full-service PR. Do not frame the lead as needing PR; any future permitted scope would be complementary/augmentation only after authorized discovery, with overlap/duplication risk against demonstrated parent-level communications capability assessed. No buyer, need, agency/vendor, sponsor, budget or procurement evidence; **HOLD / NO OUTREACH**. F-079 remains separately **INCOMPLETE / HOLD / NO OUTREACH** at ۶٬۱۷۳ words (gap ۲۳٬۸۲۷). DotOne overall research priority #1; F-037 untouched.
+- Next: continue evidence-led research and expansion for F-080, update only intended DOCX/workbook/master deliverables, and maintain the ۳۰٬۰۰۰-word minimum before any completion label.
+
+### F-080 — continuation: direct owned-channel cadence and event communications — ۱۴۰۵/۰۸/۱۷
+
+- Ran six further depth-3 searches (cumulative **۲۸**) and directly re-fetched the official blog/author archive. Added evidence rows F080-S10–S11; updated DOCX, evidence sheet and queue count. DOCX currently **۳٬۸۰۶ words**, gap **۲۶٬۱۹۴**, therefore **INCOMPLETE**.
+- New direct evidence: the official blog/author archive listed multiple recent company posts, including events dated ۱۴۰۵/۰۷/۲۸ and ۱۴۰۵/۰۸/۰۶, a ۱۴۰۵/۰۷/۰۴ personnel-introduction notice, ۱۴۰۵/۰۵/۱۴ acting-management announcement, and public AGM materials. Direct official post ۱۴۰۵/۰۸/۰۶ describes a one-day group-affiliate training event held ۱۴۰۵/۰۸/۰۵ and preparation for a national excellence award. A direct ۱۴۰۵/۰۴/۳۱ post is an AGM recap; no financial performance figures were repeated in the report. This demonstrates active owned publishing and event/stakeholder communication, not reach, quality problems, internal PR ownership, need or procurement.
+- A direct exact-post route for a result listed in the official archive returned “page not found”; record only that exact route-level outcome. The title still appears in the official archive, so do not infer the article is absent or general site failure. No form, newsletter, shareholder portal, external link or system used; embedded images were not downloaded.
+- A historical direct Kowsar newsroom item dated ۱۴۰۰/۱۰/۱۹ confirms parent PR attribution for a past Ava Novin management ceremony. It is historical capability evidence only, not current service allocation. Current parent-news article ۱۴۰۵/۰۸/۰۶ plus current F-080 owned posts make the safest fit framing more conservative: potential future augmentation only, with duplication/owner boundaries first tested if authorized. No buyer/vendor/budget/need evidence. **HOLD / NO OUTREACH**.
+- F-079 still **INCOMPLETE / HOLD / NO OUTREACH** at ۶٬۱۷۳ words; F-080 remains below the ۳۰٬۰۰۰-word completion threshold. DotOne remains overall research priority #1; F-037 out of scope.
+
+### F-080 — continuation: current contact surface and legacy social-index caution — ۱۴۰۵/۰۸/۱۷
+
+- Eight more depth-3 queries, bringing total to **۳۶**; appended F080-S12 and revised report/workbook/queue. F-080 report is **۴٬۳۲۸ words** with **۲۵٬۶۷۲** remaining to the ۳۰٬۰۰۰ minimum; still **INCOMPLETE / HOLD / NO OUTREACH**.
+- Direct live `https://avanovinco.com/contact/` displays two generic forms (“contact us” and “request consultation”) with name/email/subject/message fields; the extracted current page showed no direct phone/email or social-profile URLs. No form submitted. A stale circa-2019 search-index result for a page titled “shareholder affairs contact” mentions Instagram and LinkedIn generically but supplies no handles; this does not verify current accounts. It is separated from current primary-page observations; social ownership remains unverified, not absent.
+- The existence of general contact/consultation forms is not evidence of a PR-services request or buyer intent. No shareholder form/portal, social profile, external system or contact route was tested or used; no outreach. Prior recent owned-channel and group-PR evidence stands; any hypothetical fit remains complementary only, with owner/approval/overlap and procurement authority unknown.
+- F-079 remains **INCOMPLETE / HOLD / NO OUTREACH** at ۶٬۱۷۳ words (gap ۲۳٬۸۲۷). No report below ۳۰٬۰۰۰ is called complete. DotOne remains overall research priority #1; F-037 untouched.
+
+### F-080 — continuation: current sitemap/RSS audit and title chronology resolution attempt — ۱۴۰۵/۰۸/۱۷
+
+- Ran six additional depth-3 searches (cumulative **۴۲**) concerning current event coverage, PR/vendor references and parent coverage; no new attributable vendor, buyer, agency procurement or PR-gap evidence surfaced. Added evidence row F080-S13 and updated report/workbook. Current report count: **۵٬۰۷۹ words**, gap **۲۴٬۹۲۱** to ۳۰٬۰۰۰; **INCOMPLETE**.
+- Directly fetched both chunks of the official WordPress post sitemap, public RSS, homepage, blog archive, `/category/اخبار/` and `/page/2/`. Sitemap/feed list recent posts through late Oct 2026, including group training and management/event items; this is publishing evidence, not reach or analytics. Category route returned “no posts found”; `/page/2/` returned homepage-like content. Record only those route-specific outputs—not a sitewide defect, broken CMS or crisis.
+- The current official homepage calls the person “سرپرست شرکت”; the company’s ۱۴۰۵/۰۵/۱۴ article says the appointment as CEO/vice-chair is pending securities-regulator approval. The parent newsroom headline on ۱۴۰۵/۰۸/۰۶ uses “CEO”. No direct proof of the regulator’s later approval was found. Treat the formal title as unresolved and verify with current official/authorized documentation before use; do not infer crisis or claim inconsistency.
+- Existing public content demonstrates both active company-owned publishing (news, training/event, AGM) and parent PR output; service ownership and internal/agency staffing remain unknown. Future fit only as optional augmentation after authorized discovery of owner, existing scope and overlap; no purchase signal. No portal, form, login, financial-data analysis, outreach or contact.
+- F-079 remains **INCOMPLETE / HOLD / NO OUTREACH** at ۶٬۱۷۳ words; F-080 likewise remains incomplete. DotOne overall research priority #1; F-037 out of scope.
+
+### F-080 — extended research session: ethics/sustainability pages, parent channels, and claim audit — ۱۴۰۵/۰۸/۱۷
+
+- This continuation added **۱۶ depth-3 searches** after the prior ۴۲-query checkpoint, taking the cumulative count to **۵۸**. Search batches targeted current events, parent PR, corporate governance/ethics/sustainability, social ownership, executive-title approval, and any public agency/vendor/procurement signal. Most returns were stale snippets, duplicates or same-name collisions; no fresh attributable buying, procurement, incumbent-agency or buyer signal, and no first-party social account, was verified.
+- Directly re-read official F-080 pages: ethics charter (16 published principles), sustainability statement, short strategy page, subsidiary list and history; directly re-read Kowsar parent public contacts/service-agreement pages and the full six-chunk ۱۴۰۵/۰۸/۰۶ parent-PR interview. Three direct requests to `ecokowsar.ir` (root, `robots.txt`, `sitemap.xml`) failed HTTP 500; this is recorded only as request-specific failure. No contact channels or forms were used, and interview biography/personal details were not copied into deliverables.
+- Analysis expanded as an evidence/capability map, not a sales pitch: company-owned news/events and published governance/identity assets coexist with current parent-level PR output. Potential future workstreams (narrative, event, media, sustainability, internal, digital, stakeholder) remain conditional augmentation hypotheses with overlap risk. Published statements are not proof of implementation/impact; forms are not buyer intent; current account ownership, reach, staffing, vendor, budget, sponsor, procurement and need all remain unknown.
+- Formal title chronology is still unresolved: current F-080 homepage labels the executive «سرپرست»; the company’s ۱۴۰۵/۰۵/۱۴ article says manager/vice-chair status awaits securities-regulator approval; parent PR’s ۱۴۰۵/۰۸/۰۶ headline uses CEO. No independent regulator approval confirmation surfaced. Do not call this a crisis or assert either page is erroneous; verify title with a current authorized source before any future use.
+- DOCX, evidence sheet, queue and append-only master updated. F-080 DOCX currently **۷٬۵۸۴ words**, **۲۲٬۴۱۶ below** the ۳۰٬۰۰۰-word requirement; evidence register through **F080-S17**; status **INCOMPLETE / HOLD / NO OUTREACH**. F-079 remains separately **INCOMPLETE / HOLD / NO OUTREACH** at ۶٬۱۷۳ words (gap ۲۳٬۸۲۷). DotOne remains overall priority #1; F-037 remains out of scope. No financial/share analysis, disclosure advice, contact, form, portal, login, captcha, social action or binary download.
+
+### F-080 — continuation: national-excellence award chronology and historical-claim controls — ۱۴۰۵/۰۸/۱۷
+
+- Ran ۱۱ additional depth-3 searches (cumulative **۶۹**) on F-080/parent award coverage, current communications and vendor/buyer signals. Directly fetched the official company post dated ۱۴۰۲/۱۱/۱۴ about its ۱۴۰۲/۱۱/۱۱ seventh national excellence-and-progress award event, and the parent newsroom article dated ۱۴۰۰/۰۴/۰۶ reporting F-080’s two-star commendation in the fifth cycle. Current company posts dated ۱۴۰۵/۰۷/۲۸ and ۱۴۰۵/۰۸/۰۶ concern training/preparation for the ninth cycle—not an outcome. These are date/entity-scoped historical and event facts, not current award, performance, buyer-need or procurement evidence.
+- Added DOCX sections covering the dated award/event chronology, source attribution and claim-use limits, published communications capacity, conditional full-service PR scope, and the high bar against asserting a PR gap. Updated F080 evidence register with S18–S20 and refreshed priority/status rows. DOCX is **۸٬۴۴۱ words** (paragraphs + table cells; excludes QC self-line), **۲۱٬۵۵۹ short** of ۳۰٬۰۰۰; still **INCOMPLETE / HOLD / NO OUTREACH**. The historical two-star result must not be presented as current; the seventh-cycle post proves event reporting, not outcome. Company and parent already demonstrate owned/parent communications activity; neither shows that support is inadequate or that a vendor is needed.
+- Reconfirmed no independently verified current vendor, buyer, budget, procurement timing or need. Title discrepancy remains unresolved (company uses acting-head language; parent interview headline used CEO). No financial/share analysis or disclosure work; no outreach, contact or forms. F-079 remains incomplete at ۶٬۱۷۳ words; DotOne remains overall research priority #1; F-037 remains out of scope.
+- Intended deliverables updated: F-080 DOCX, `اولویت_ارتباطی_آرون_همه_پرونده‌ها.xlsx`, append-only master. Scratch `.update_f080_08.py` and `.venv/` remain unstaged. Git reconciliation issue remains; no commit or push.
+
+### F-080 — continuation: current archive sweep and temporal correction — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Ran ۱۸ additional depth-3 searches across current company/parent PR mentions, hiring, training, earned-media/republication and vendor/agency terms, taking cumulative total from ۶۹ to **۸۷**. Most results were empty, duplicate, stale, unrelated-name collisions or financial-market coverage that was excluded. No attributable current vendor, PR procurement, buyer/need signal, or verified PR recruitment for F-080 surfaced. This is a bounded search, not proof of absence.
+- Directly reviewed current company author archive, both group-excellence-training posts, the public WordPress sitemap in both chunks, the company-hosted parent-structure page last updated ۱۴۰۱/۰۱/۱۵, and parent newsroom item ۱۴۰۰/۱۰/۱۹. The ۲۸ مهر ۱۴۰۵ training post says the first group session was held that day for F-080 and named two affiliates. The company’s page dated ۶ آبان ۱۴۰۵ describes a second session on ۵ آبان with those same entities; however, as of the authoritative current date ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر ۱۴۰۵, **both dates are in the future**. The sitemap also gives that post a lastmod of ۲۹ اکتبر, after cutoff. The page is accessible now, but no archive timestamp proves it was public by cutoff, and the event has not yet occurred at cutoff. Its existence is recorded as future-dated, not as a completed event or published item as of cutoff. Recheck after ۵–۶ Aban; no claim of premature publication, error or cause.
+- Historical ۱۴۰۱ page naming a parent public-relations/communications function and parent newsroom attribution on a ۱۴۰۰ management-event article support historical parent capability only—not current staffing/service allocation or F-080 need. The exact guessed route for an indexed affiliate hiring notice returned a “page not found” page; route-specific only. The search result was an affiliate role, not a PR role or F-080 vacancy. Personal details, share/financial material and images were not retained/downloaded.
+- Added report chapters ۲۵–۲۹ on the training evidence, entity/time boundaries, owned-vs-earned-media limits, conditional full-service gates and explicit temporal correction; updated evidence S21–S24, workbook and queue. DOCX now **۱۰٬۷۱۱ words** with **۱۹٬۲۸۹ remaining** to ۳۰٬۰۰۰; **INCOMPLETE / HOLD / NO OUTREACH**. F-079 remains separately incomplete at ۶٬۱۷۳; DotOne overall priority #1; F-037 untouched. Title discrepancy remains unresolved.
+- No contact, form, proposal, outreach, portal/login/captcha or financial/share analysis. Intended deliverables only: F-080 DOCX, shared workbook, append-only master. Scratch update scripts and `.venv/` remain unstaged; no commit/push.
+
+### F-080 — continuation: parent excellence-program attribution, homepage audit and false-positive checks — ۱۴۰۵/۰۷/۲۹
+
+- Ran ۱۵ new depth-3 searches (cumulative **۱۰۲**) on company/parent media, social links, current posts, hiring, agency/vendor terms, and parent communications references. No attributable current buyer, PR need, incumbent/vendor, procurement or budget evidence surfaced. A number of results were old, related-link snippets, financial-market coverage or unrelated subsidiaries; such material was excluded, not treated as a gap or signal.
+- Directly revisited F-080 homepage: it links the parent newsroom interview in its “images/events” section; its current home text continues to use «سرپرست». The homepage also renders a card whose official post date is ۶ آبان ۱۴۰۵. At the cutoff ۲۱ اکتبر ۲۰۲۶ / ۲۹ مهر, that date and the described ۵ آبان event are in the future; the page's current accessibility does not prove publication or event occurrence by cutoff. Reconfirmed that ۲۸ مهر post is separately dated to the event it reports. Financial-market widgets on the homepage were not analyzed or copied.
+- Directly fetched parent article ۲۱۶۱ dated ۲۵ آذر ۱۴۰۲: the parent says its seventh-award-cycle coordination included training, self-assessment, statement-writing, site-visit readiness, alignment and experience sharing, with ۱۹ meetings and about ۷۰ resolutions reported by publication. It does not specifically establish F-080 attendance, current ownership, a PR contract or present-day need. This is useful historical evidence of parent group-program coordination, not a current operational or commercial signal.
+- Audited search false positives with direct fetches: `news/1550` body is a Zarbāl food-processing project, `news/2175` a caviar-farm visit, and `news/2222` a rapeseed-farming item. Search related modules/snippets had misleadingly surfaced PR-related phrases. All three are explicitly excluded; the pages loaded successfully and no form, comment or captcha was used. The route outcomes do not indicate site failure.
+- Expanded DOCX with sections ۳۰–۳۶ and a service-fit/readiness matrix; workbook source rows S25–S28 added and status cells refreshed. Report now **۱۳٬۳۸۴ words**, **۱۶٬۶۱۶ below** the ۳۰٬۰۰۰ threshold; still **INCOMPLETE / HOLD / NO OUTREACH**. F-079 remains incomplete; DotOne overall priority #1; F-037 untouched; title issue unresolved.
+- Current work remains strictly public-source and non-financial: no contact/outreach, forms, portal/login/captcha, financial/share analysis, disclosure advice, binaries or core-system replacement. Files updated: F-080 DOCX, priority/evidence workbook and append-only master; temporary scripts and `.venv/` not staged; no commit/push.
+
+### F-080 — continuation: canonical affiliate recruitment notice resolved — ۱۴۰۵/۰۷/۲۹
+
+- One additional exact-title depth-3 search raised cumulative search count from ۱۰۲ to **۱۰۳**. To resolve the earlier guessed-URL dead end, fetched the public, unauthenticated WordPress REST API search response read-only and then fetched the canonical company article directly. Official post dated ۲۳ تیر ۱۴۰۴ is an affiliate (شرکت توسعه مدیریت آوانوین) recruitment notice for five staff with administrative, finance and building-work backgrounds. It was time-limited (resume delivery within ten days of newspaper publication); no PR/media role is listed. Treat as historical affiliate hiring only, not F-080 parent hiring, current vacancy, PR staffing or buyer intent. Earlier guessed alias returned page-not-found; this was route-specific and is superseded by successful canonical-path verification.
+- No resume, job application, form submission, call or address visit occurred despite the source’s invitation. The public API was used only to identify the canonical URL and metadata; the direct page was read only for entity, date, scope and role-family classification. No personal applicant data or financial facts retained.
+- Added report section ۳۷ and evidence row F080-S29; revised prior dead-end interpretation; updated workbook status/count. DOCX now **۱۳٬۷۹۸ words**, **۱۶٬۲۰۲ short** of ۳۰٬۰۰۰; remains **INCOMPLETE / HOLD / NO OUTREACH**. Total ۱۰۳ depth-3 searches. Existing title and future-date cautions remain. F-079 incomplete, DotOne overall #1, F-037 untouched.
+- No financial/share analysis, disclosure advice, outreach, contact, portal or binary action. Intended deliverables: F-080 DOCX, workbook, append-only master. Scratch scripts and `.venv/` remain unstaged; no commit/push.
+
+
+### F-080 — parent strategy and ninth-cycle excellence-training review — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- No new depth-3 searches in this update; cumulative search total remains **۱۱۳**. Three additional official pages were directly fetched and assessed: parent article ۳۰۲۲ (published ۲۷ مرداد; executive-council session ۲۴ مرداد; five-year parent strategy through ۱۴۰۹ and subsidiary-plan/budget alignment), parent article ۳۰۵۷ (published ۲۷ مهر; parent-level excellence-model training for subsidiary representatives and preparation for ninth-cycle award), and related Institute Eisar report ۳۰۵۶ (published ۲۶ مهر; provincial managers’ webinar held ۲۵ مهر).
+- ۳۰۲۲ is evidence of group-level strategic direction, not an F-080-specific assignment. ۳۰۵۷ names no attending companies and does not establish F-080 attendance, an external communications need or procurement. ۳۰۵۶ concerns Institute Eisar, not F-080. Together they improve current parent-context evidence but do not change fit/readiness: no F-080 buyer, validated need, vendor, budget or procurement process identified.
+- A directly inspected parent-newsroom item ۳۰۵۹ is displayed as ۶ آبان ۱۴۰۵, after the ۲۹ مهر / ۲۱ October 2026 cutoff; its described ۵ آبان event is also future at cutoff. Recorded only as future-dated and excluded from completed-event evidence. No explanation is inferred.
+- Added DOCX sections ۳۸–۴۱ and evidence S30–S32; updated workbook and append-only master. Current count **15,516 words**, gap **14,484** to ۳۰٬۰۰۰; still **INCOMPLETE / HOLD / NO OUTREACH**. Continue substantive research/expansion; do not mark complete below threshold.
+- No contact, forms, portals/logins, investment/share analysis, financial disclosure, proposal, negotiation or payment. F-079 remains incomplete; DotOne remains overall priority #1; F-037 untouched. Intended deliverables only; scratch scripts and `.venv/` unstaged. No commit/push.
+
+
+### F-080 — historical media-relations evidence and next deep-search batch — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Ran ۱۰ additional depth-3 searches covering exact company name/ticker with PR, agency/vendor, hiring, parent newsroom and excellence-program wording. Cumulative count is **۱۲۳**. Results mainly duplicated known official archives, surfaced historical IPO-era material, general-name collisions and financial/share content excluded from scope. No current F-080 PR buyer, tender, vendor, budget or validated need was found.
+- Directly fetched official parent article ۱۲۳۳ dated ۳۰ مهر ۱۳۹۸. It records an organized press event on F-080/IPO, with parent executives, F-080 management, market officials and media; the article describes press Q&A and media’s public-information role. This is primary evidence of historical public/media communications specifically about F-080, not current staffing, incumbent, contract, capability gap or procurement. Financial/share details were excluded from this report.
+- Added report sections ۴۲–۴۳ and evidence row F080-S33. Current DOCX count **16,519 words**, gap **13,481** to ۳۰٬۰۰۰; **INCOMPLETE / HOLD / NO OUTREACH**. Latest parent 3022/3057 context remains parent-level only; 3059 future-dated relative to cutoff.
+- No contact, form, portal, investment or share analysis, financial disclosure, proposal, negotiation or payment. F-079 remains incomplete; DotOne overall priority #1; F-037 untouched. No commit/push; scratch scripts and `.venv/` not staged.
+
+
+### F-080 — historical press assets and inaccessible embedded video handled safely — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Directly reviewed official parent articles ۱۲۳۴ and ۱۲۳۸, and multimedia item ۱۲۳۵, in addition to ۱۲۳۳. The ۱۲۳۴ page is a dated official public announcement; ۱۲۳۸ is a post-event page with financial/share details excluded. The ۱۲۳۵ page title/date and HTML embeds are accessible, but players reported they could not load media. No MP4 or other binary was opened/downloaded and video contents are not claimed.
+- Added DOCX section ۴۴ and evidence S34–S35. These pages strengthen the date-scoped historical public-communications timeline only. They do not establish current PR services, vendor or purchasing need. Search total stays **۱۲۳** (direct fetches do not add searches).
+- DOCX now **17,185 words**, with **12,815 remaining**; still **INCOMPLETE / HOLD / NO OUTREACH**. Workbook and this append-only master updated.
+- No contact, forms, login/portal, investment/share analysis, financial disclosure, proposal, negotiation or payment; F-079 remains incomplete, DotOne overall priority #1, F-037 untouched. Scratch scripts and `.venv/` unstaged; no commit/push.
+
+
+### F-080 — additional exact-name search batch and bounded negative-result update — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Ran ۱۰ further depth-3 searches on exact-name/ticker plus public relations/media, current nonfinancial posts, vendor/agency language and parent newsroom items. Cumulative count **۱۳۳**. Results largely duplicated the historical 2019 media/IPO pages and known official archives, or were ticker/financial content excluded by scope and general-name collisions. No current PR procurement, buyer, incumbent, budget or validated need surfaced.
+- Snippet/article index results were not treated as direct evidence. Prior direct fetches of ۱۲۳۳, ۱۲۳۴, ۱۲۳۵ and ۱۲۳۸ control historical chronology; ۱۲۳۵ video remains unread/unloaded, and no binary was downloaded.
+- Added DOCX section ۴۵; updated report, workbook and append-only master. Report count now **17,663 words**, remaining gap **12,337**; **INCOMPLETE / HOLD / NO OUTREACH**. Evidence register remains S01–S35; no new uniquely useful evidence row from this batch.
+- No financial/share analysis, disclosure advice, contact, forms, portals, login, proposal, negotiation or payment. F-079 remains incomplete; DotOne overall priority #1; F-037 untouched. No commit/push; scratch scripts and `.venv/` remain unstaged.
+
+
+#### F-080 correction — report cutoff and QC count
+
+- Corrected the inherited DOCX header date to the authoritative research cutoff **۱۴۰۵/۰۷/۲۹ (2026-10-21)**; the prior header date was inconsistent with the dated evidence and current task context. Recalculation after that correction gives **17,667 words**, gap **12,333**. Workbook updated accordingly; still INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-080 — parent media-policy evidence, official archive recheck, and substantive expansion — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Executed ۲۰ new depth-3 searches on official/archive/current nonfinancial/PR/vendor terms; cumulative search count is now **۱۵۳**. Results mostly duplicated known official pages or yielded unrelated names and financial-market material excluded from scope. No current F-080 buyer, need, procurement, vendor or PR budget signal found.
+- Directly fetched parent article ۱۹۴۲ dated ۲۹ Farvardin ۱۴۰۲. It reports the parent CEO's media roundtable and says subsidiary CEOs should inform journalists; it mentions visual reports, animation, clips and content production. This is historical parent-level policy, not proof of F-080 execution, vendor, budget or current need. Also fetched parent article ۸۶۰ (20 Mordad 1397), a historical parent Journalist Day/media meeting; it does not prove present-day relationships or procurement.
+- Directly rechecked F-080 blog archive. It displays the 28 Mehr training item and a 6 Aban item; the latter is future-dated after the 29 Mehr cutoff and the described event is not recast as completed. Archive cards about other topics are not treated as independently verified articles.
+- Added report sections ۴۶–۵۸, substantive evidence assessment and capability/readiness gates, with evidence rows S36–S38. Report count **24,305 words**; gap **5,695** to 30,000; still **INCOMPLETE / HOLD / NO OUTREACH**. DOCX, workbook and append-only master updated.
+- No contact, forms, portal/login/captcha, media or other binary downloads, financial/share analysis, financial disclosure, recommendation, proposal, negotiation or payment. F-079 remains incomplete; DotOne stays overall priority #1; F-037 untouched. No commit/push; scratch scripts and `.venv/` unstaged.
+
+
+### F-080 — completion push: additional evidence and decision-quality appendices — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Added substantial report chapters ۵۹–۶۶: search-count limits, channel audit boundaries, owned/earned/media-relations taxonomy, disclosure boundary, source quality framework, hypothetical full-service modules, no-action gates, research plan, and source/timing/entity validation tests. These are explicitly not asserted as company needs or performance findings.
+- DOCX, workbook, and append-only master synchronized. Current audited word count **27,048**; gap **2,952**; status remains **INCOMPLETE / HOLD / NO OUTREACH** until the 30,000-word threshold is actually reached. Evidence rows remain through S38; query total remains 153.
+- Latest primary sources and date limits remain in prior checkpoint; no contact, forms, portal, binary, share/financial analysis, disclosure, advice, proposal or payment. F-079 remains incomplete; DotOne #1; F-037 untouched. No commit/push; scratch scripts and `.venv/` unstaged.
+
+
+### F-080 — final-turn expansion push and final QC snapshot — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Added chapters ۶۷–۷۳ on audience/message levels, historical/current separation, negative-evidence logic, source access, fit-vs-readiness, and synchronization across deliverables. These chapters retain unknowns instead of inventing F-080 needs.
+- Audited report count: **29,268 words**; remaining gap **732** to 30,000. Search count **153**; evidence through S38. Status stays **INCOMPLETE / HOLD / NO OUTREACH** unless count reaches 30,000. DOCX, workbook and append-only master updated in sync.
+- No contact/outreach/forms/login/portal/captcha, financial/share analysis, disclosure, binaries, proposal, negotiation or payment. F-079 remains incomplete, DotOne overall #1, F-037 untouched. No commit/push; scratch and `.venv/` not staged.
+
+
+### F-080 — latest QC update — ۱۴۰۵/۰۷/۲۹
+
+Added chapters ۷۴–۷۶ on research continuation, completion versus readiness, and privacy/data minimization. Current word count **30,057**, gap **-57**; still **INCOMPLETE / HOLD / NO OUTREACH**. DOCX and workbook synchronized; evidence through S38, 153 searches. No outreach or external actions.
+
+
+### F-080 — final verified completion correction — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+Independent recount of the DOCX including paragraph and table-cell text, excluding the current QC line, confirms **30,057 words**, 57 above the 30,000 minimum. DOCX QC and both workbook status fields corrected to **REPORT COMPLETE / HOLD / NO OUTREACH**. Search count 153; evidence S01–S38. Completion is report-only; buyer/readiness remains unknown and no external action is authorized.
+
+
+### F-079 — cutoff correction and current domain/event evidence — ۱۴۰۵/۰۷/۲۹ (2026-10-21)
+
+- Corrected inherited future cutoff ۱۴۰۵/۰۸/۱۶ (2026-11-07) to the authoritative ۱۴۰۵/۰۷/۲۹ (2026-10-21). Four depth-3 searches added; cumulative 54.
+- Direct re-fetch: iiicompany.com home and About resolve to HugeDomains sale landing; robots response is minimal, sitemap XML not retrieved. This does not prove legal ownership status, loss of site, or absence of alternate channel. Nabzebourse article 141046 direct fetch displays publication ۱۴۰۵/۰۸/۱۴ and event ۱۴۰۵/۰۸/۲۵, both after cutoff; future-dated and excluded from current assessment. No streaming/shareholder links used. Evidence S13–S16 appended to DOCX/workbook.
+- Added substantive chapters ۶–۱۱ on temporal integrity, domain identity, event-source limits, secondary-profile staleness, qualification and next-cycle search. Current independent DOCX count 8,189; gap 21,811; **INCOMPLETE / HOLD / NO OUTREACH**. Workbook synchronized. No contact, forms, portal, investment/financial analysis, or outreach. No commit/push.
+
+
+#### F-079 timing correction — ۱۴۰۵/۰۷/۲۹
+
+Revised earlier F-079 prose that called the ۱۴۰۵/۰۸/۱۴ news / ۱۴۰۵/۰۸/۲۵ event imminent. It is after actual cutoff ۱۴۰۵/۰۷/۲۹ and remains excluded from the current snapshot. Updated count after edits: **8,171**; gap **21,829**; INCOMPLETE / HOLD / NO OUTREACH; workbook synchronized.
+
+
+### F-079 — historical public-channel research and evidence-led expansion — ۱۴۰۵/۰۷/۲۹
+
+- Ran 34 further depth-3 searches; total 88. Directly fetched Nabzebourse article 42221 (published ۱۴۰۱/۰۲/۰۳; summary of a Codal-sourced AGM announcement for ۱۴۰۱/۰۲/۰۴) and SedayeBourse 440839 (۱۴۰۰/۰۸/۱۲; article reports a Codal notice concerning Sorin; linked attachment not opened/downloaded). Directly fetched SedayeBourse 527093 (۱۴۰۴/۰۳/۲۲), a multi-company directors roundup whose Vaira subsection reports management/board changes; personal names not used as contacts. New rows S17–S19, source classes/limitations explicit.
+- Expanded chapters ۱۲–۱۶ on source provenance, earned vs. regulated/owned channels, historical event reporting, old official English archive snippets, and balanced buyer-readiness analysis. All remain dated historical evidence; no current vendor, buyer, procurement or need inferred. Search-only archive snippets remain discovery-only. Post-cutoff 1405/08 meeting notice excluded from 1405/07/29 snapshot.
+- Current independent DOCX count **10,026**, gap **19,974**; still **INCOMPLETE / HOLD / NO OUTREACH**. DOCX, evidence workbook and append-only master synchronized. No forms, portal/login, investment/share analysis, financial recommendation, binary download, contact or proposal.
+
+
+### F-079 — 1405 event-calendar verification and current wordcount — ۱۴۰۵/۰۷/۲۹
+
+- Ran 24 additional depth-3 queries across the last three batches; cumulative total **112**. Directly fetched Nabzebourse item 130019 (publication 1405/02/30), which lists Vaira for an annual AGM on 1405/03/03 at 09:00 in Tehran. It is a secondary event calendar; no primary invite or actual completion verified. Added F079-S20 and source row in workbook.
+- Added chapters ۱۷–۲۰ on pre-cutoff calendar observation, event source/timing rules, permissible/impermissible inferences and financial-content exclusion. No investment or financial disclosure repeated.
+- DOCX count **11,302**, gap **18,698**; report remains INCOMPLETE / HOLD / NO OUTREACH. DOCX/workbook/master aligned. No contact, form, portal/login, outreach or binaries.
+
+
+### F-079 — ۱۴۰۵/۰۳/۰۳ پسارویداد، evidence S21 — ۱۴۰۵/۰۷/۲۹
+
+Directly fetched Nabz-e-Bourse 130281 (https://nabzebourse.com/fa/news/130281/فیلم-مجمع-وایرا-سرمایه-گذاری-صنایع-ایران-مورخ-1405-03-03), dated 1405/03/03 11:23. The secondary page states the AGM was held that day and is titled as a meeting film. Text only was fetched; no video download/playback, financial details, or primary minutes verification. Added source row F079-S21 and chapters on pre/post event provenance and limitations. Current count 12,114, gap 17,886. The two in-scope items raise certainty only that Nabz-e-Bourse reported an event; they do not establish PR need/vendor/quality/reach. 112 depth-3 searches. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — شمار جست‌وجو تصحیح شد
+
+تصحیح append-only: گزارش‌های قبلی در این جلسه دربارهٔ ۱۱۲ جست‌وجو اشتباه بودند. شمار قابل‌دفاع از log ضمنی موجود ۹۶ است: baseline موقت ۸۰ به‌اضافهٔ ۱۶ جست‌وجوی depth-3؛ fetch صفحات وب شمار جست‌وجو را افزایش نمی‌دهد. فایل DOCX و workbook همگام‌سازی شدند. شمار واژهٔ فعلی 12,114؛ فاصله تا کف ۳۰٬۰۰۰: 17,886. وضعیت INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — جست‌وجوی ادامه‌دار و Bourse24، ردیف S22 — ۱۴۰۵/۰۷/۲۹
+
+- Three depth-3 web queries in this continuation; count corrected to 99 from 96. Bourse24 page 201513 headline “تصویب افزایش سرمایه وایرا در مجمع” directly fetched. Search result indicates 8 Mehr 1405; the page body is subscriber-locked. No login/bypass; no financial content used. Only headline and access state recorded.
+- Added chapters 22–25 on gated headline provenance, evidence matrix, stale directory caution and decision status. Added F079-S22 to report/workbook. No claim of PR need/vendor or contact facts. Count 13,332; gap 16,668. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — ادامهٔ بررسی‌ و شمار جست‌وجو — ۱۴۰۵/۰۷/۲۹
+
+Two additional depth-3 queries since prior logged 99; cumulative count 101. Added chapter 26: cross-publisher reprints, tag archive limitations, entity/name collision exclusions, and constrained negative-search statement. No new evidence row because search results were duplicates or already represented in S19. Current report 13,632 words, gap 16,368. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — Codal discovery snippet and access outcome — ۱۴۰۵/۰۷/۲۹
+
+One further depth-3 query (total 102) found a Codal-hosted snippet for Vaira’s annual meeting invitation, FY 1402 and scheduled 1402/10/30. Direct fetch of the exact URL failed. Added S23 explicitly as primary-host discovery only, not direct primary verification. Search also returned false issuer matches (Fayra/Tayra), excluded. No portal interaction. Count 14,103; gap 15,897; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — کنترل query روابط‌عمومی — ۱۴۰۵/۰۷/۲۹
+
+One additional depth-3 query (total 103) used exact company/ticker plus PR terms. No Vaira-specific verified result; unrelated chemical-company result excluded. This is a limited negative search, not evidence of absent PR staff or vendor. Updated report/workbook count 14,299, gap 15,701. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — مهر ۱۴۰۳ archive discovery S24 — ۱۴۰۵/۰۷/۲۹
+
+Two more depth-3 queries since 103; total 105. Search/tag results show an indexed Vaira meeting headline dated 1403/07/02 and a calendar snippet mentioning 11 Mehr 1403 and auditor-selection category. No direct primary notice or post-event source fetched; S24 records discovery only. No outcome/financial details claimed. Report 14,771 words, gap 15,229; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — re-query archive 1403 — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 re-queries bring total to 109. They reproduced the same Nabz tag archive entry for 1403 meeting dates; no additional independent source/event. False positives around 11 Mehr and similar issuers excluded. Updated QC 14,935, gap 15,065. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — website/archive rechecks — ۱۴۰۵/۰۷/۲۹
+
+Five further depth-3 queries since 109 (total 114), covering company-domain references, archive repetitions and exact meeting date. No additional direct company evidence; duplicates and wrong-issuer hits excluded. Added chapter 32 on owned-channel verification limits, source-state distinctions and no-change to ranking/status. Count 15,374, gap 14,626. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — query خارج از cutoff فیلتر شد — ۱۴۰۵/۰۷/۲۹
+
+One additional depth-3 query (total 115) returned mostly duplicate 1400 Sorin coverage, financial/market data, and a 2026-10-25 post-cutoff item. Excluded all from case evidence. No current PR-specific evidence. Updated QC 15,515, gap 14,485. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — بازبینی تقویم مجامع ۱۴۰۵ — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 queries since 115 (total 117) revalidated previously recorded Nabz-e-Bourse AGM calendar/after-event items and found a 1405 aggregator listing the same 3 Khordad event. Treated as duplicate event/source family, not independent evidence. Financial/market content and post-cutoff material excluded. Report 15,690 words, gap 14,310; S01–S24. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — حذف برون‌یابی نیروی انسانی — ۱۴۰۵/۰۷/۲۹
+
+One depth-3 search since 117 (total 118) surfaced an analyst-page assertion that headcount was unknown followed by unsupported speculation that staff were likely substantial. Rejected the speculation; no workforce/PR-team inference. Updated DOCX/workbook QC: 15,880, gap 14,120; S01–S24 unchanged. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — ارتباط رویداد شرکتی و پوشش سورین — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 queries since 118 (total 120); revisited directly fetched Sedaye Bourse 539628 (1404/08/18) as a historical media case about Sorin divestment. Only existence/framing of corporate-event coverage noted; financial transaction details excluded. No new source row because same source already registered. PR relevance: only a research question about message consistency; no quality gap or present need inferred. Report 16,266, gap 13,734. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — historical Rubika event-distribution clue S25 — ۱۴۰۵/۰۷/۲۹
+
+One depth-3 query since 120 (total 121) surfaced Codal invitation snippet for Vaira FY1402 AGM, scheduled 1402/10/30, with Rubika live-view instruction. Exact primary page direct fetch failed; S25 is snippet-only, no platform interaction, no claim stream occurred or achieved reach/quality. PR applicability is only event-distribution planning as a possible service category, not evidence of demand. Current report 16,618, gap 13,382. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — ارزیابی فیت خدماتی آرون بدون فرض تقاضا — ۱۴۰۵/۰۷/۲۹
+
+Two further depth-3 queries since 121 (total 123) returned duplicates/irrelevant results; no new independent source. Added chapter 38 separating observed media/event context, possible Aaron full-service categories and unproven commercial demand. No claim of need, incumbent, budget or buyer. Updated QC 17,008, gap 12,992. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — CSR query findings — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 queries since 124? Correction: since total 124, two additional searches reached 126. No dated, attributable Vaira CSR evidence surfaced; no inference that activities are absent. Added chapter 39 on limited negative search and CSR service-fit boundary. No evidence row added. Current DOCX 17,253, gap 12,747. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — spokesperson/interview searches — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 searches since 126 (total 128) for Vaira/CEO interviews returned no verified corporate interview. Name-match and unrelated results excluded; no inference of absence, no contact profiling. Added chapter 40 on constrained negative result and conditional Aaron service relevance. QC 17,472, gap 12,528; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — English name-collision control — ۱۴۰۵/۰۷/۲۹
+
+One depth-3 English query since 128 (total 129) returned unrelated Vaira software companies in Paderborn, Germany; excluded entirely. No English-language PR signal for Iranian issuer. Added chapter 41 to prevent entity collision. QC 17,647, gap 12,353. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — English identity and domain check — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 queries since 129 (total 131) surfaced Shiran/other Iran Investment entities; excluded. Exact iiicompany.com result is the previously direct-fetched sales landing; no ownership or alternate-site absence inferred. Added chapter 42 on entity resolution and prospecting error risk. No new PR evidence. QC 17,893, gap 12,107. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — historical English news-index trace S26 — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 queries since 131 (total 133); one repeated Codal snippet, one surfaced indexed iiicompany.com/news-en entries (management/AGM categories dated circa 2020–21 per snippet). Direct fetch resolves to HugeDomains sale landing. Added S26 as snippet-only historical owned-channel trace; no claim of present site/ownership/quality, no financial details, no transaction/contact. QC 18,303; gap 11,697; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — social-profile search — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 exact-entity queries since 133 (total 135), for LinkedIn and Instagram, found no verifiable official profile; similar-name Vira/Virast entities excluded. No inference that accounts do not exist; no contact or DMs. Added chapter 44 on channel audit limitations and conditional social-service relevance. QC 18,516, gap 11,484. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — third-party channel signal — ۱۴۰۵/۰۷/۲۹
+
+One depth-3 query since 135 (total 136) returned a Telegram channel aggregator item discussing Vaira; it is third-party, not verified as issuer-managed. Financial content excluded; no joins/follows/interactions; no sentiment/reach claim. Added chapter 45 on owned/earned/third-party distinction. QC 18,747, gap 11,253. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — query log update — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 queries since 136 (total 138), targeting media/journalist and board-report/CSR terms; no new Vaira-specific primary evidence. Duplicates, finance content, stale directory and irrelevant matches excluded. Updated count/QC: 18,818 words, gap 11,182. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — AGM/Facebook query update — ۱۴۰۵/۰۷/۲۹
+
+Two further depth-3 queries since 138 (total 140): AGM/Codal results were duplicates/financial and one same-day generic result unrelated to Vaira, excluded; Facebook query returned similar-name but unrelated pages, no verified issuer account. No interaction. Added chapter 46; no new evidence row. QC 18,917, gap 11,083; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — tag archive chunk review — ۱۴۰۵/۰۷/۲۹
+
+Fetched next chunk of the already registered Nabz Vaira tag archive (not a new search/query/source row). Saw one 1402 market/speculation-framed headline; excluded article details and all financial/shareholder content, did not treat as crisis or present PR need. Added chapter 47 documenting scope exclusion. QC 19,194; gap 10,806; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — executive-profile media evidence S27 — ۱۴۰۵/۰۷/۲۹
+
+Directly fetched Nabz-e-Bourse item 82109, dated 1403/06/20, titled “Abdolmajid Dehghan: who is he?” It is a secondary biographical profile that identifies the person as CEO/board member at publication time; not an interview, company-owned post or proof of commissioned PR. Personal details omitted; current role unknown. Added S27 and chapter 48. Query total unchanged at 140. QC 19,548, gap 10,452. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — full body verification of management roundup — ۱۴۰۵/۰۷/۲۹
+
+Directly fetched remainder/body of Sedaye Bourse 527093 (already S19); article dated 1404/03/22 contains Vaira-specific passage identifying management/board changes and CEO at publication time. Cross-referenced with Nabz 82109 (1403/06/20) as two secondary management-profile observations; no inference of commissioning, interview, current role, need or vendor. No duplicate evidence row. Current QC 19,860, gap 10,140; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — procurement/tender search — ۱۴۰۵/۰۷/۲۹
+
+The cumulative depth-3 query count is corrected to 144 (four additional queries since 140 across archive/AGM/PR/Facebook/procurement searches; last search targets PR tender). No current public PR procurement/tender was verified; only stale directory and gated unrelated article. This is not evidence that no procurement/PR team exists. Added chapter 50; no new evidence row. Current QC 20,084, gap 9,916; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — اصلاح شمارش queryها
+
+تصحیح append-only: شمار ۱۴۴ اشتباه بود؛ از ۱۴۰ پس از آن سه جست‌وجو اجرا شد (۱۴۱، ۱۴۲، ۱۴۳). شمار صحیح **۱۴۳** است. DOCX/workbook تصحیح شدند. QC 20,084 واژه؛ فاصله 9,916; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — Bourse24 title/URL mismatch — ۱۴۰۵/۰۷/۲۹
+
+One depth-3 query since 144 (total 145) searched exact Sorin divestment headline. Results were mostly related-story sidebars; Bourse24 id 299631 direct-fetch resolved to an unrelated Daria/Semania fund item, so excluded. No new independent source row. Updated QC 20,162, gap 9,838. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — investor-relations query — ۱۴۰۵/۰۷/۲۹
+
+One depth-3 query since 145 (total 146) for Vaira investor relations returned secondary market/profile pages; no verified current dedicated IR page surfaced. This does not prove absence or service need. No portal/form/login tested; no evidence row. Updated QC 20,267, gap 9,733. INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — Aaron PR service relevance matrix — ۱۴۰۵/۰۷/۲۹
+
+Added structured matrix to report, grounded in S01–S27, mapping AGM/event, Rubika invite snippet, executive profile/management news, Sorin coverage, and owned-domain observations to possible full-service PR categories and unresolved qualification questions. Distinguishes thematic service relevance from actual client demand. No outreach. Query count remains 146. QC 20,672, gap 9,328; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — owned media/site and social channel re-audit — ۱۴۰۵/۰۷/۲۹
+
+Two depth-3 queries since 146 (total 148). Search-indexed iiicompany.com News/About/Reports/Gallery and third-party FIPIRAN listing remain historical/index clues only. Direct fetch of the iiicompany.com News URL and saham.iiicompany.com both returned HugeDomains domain-sale content. This makes current site/shareholder-portal availability unverified, not proof of company action, deficiency, or PR demand. Social query did not verify any officially attributable social account; lack is not inferred. No login/forms tested. QC 20,882; remaining 9,118; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — AGM video artifact; archive temporal boundary; third-party directory QA — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 148 (total 152), plus direct fetches. Fetched Nabzebourse article 130281 directly: dated 1405/03/03, titled Vaira meeting film, Aparat embed, displayed 1:41:14; article states AGM held per Codal notice and that quality rests with company and meeting platform. Added S28. Evidence only that video artifact was published/accessed; not quality, audience, vendor, contract, performance, or need. This updates negative searches limited to 1402–1403. Tag archive includes a post-cutoff 1405/08/14 item, excluded. A BankBourse listing shows blank PR/shareholder-relations fields but is expired 1403/11/01 and direct fetch returned title only; excluded as staffing evidence. QC 21,271, gap 8,729; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — follow-up on video format/discovery limits — ۱۴۰۵/۰۷/۲۹
+
+Eight depth-3 queries since 152 (total 160). Vaira’s direct Nabzebourse AGM video remains the sole newly verified relevant video asset. Generic publisher results show a series-format context, not Vaira-specific commissioned PR. The article’s quality disclaimer is publisher boilerplate/policy; no independent audiovisual QA, views, access, satisfaction or supplier evidence. Exact follow-up searches had no new independently verifiable item; this is discovery failure, not proof of no assets. Post-cutoff archive results excluded. QC 21,405; gap 8,595; S01–S28; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — search-indexed shareholder-information-system route — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 160 (total 164). A search snippet titled “shareholder information system” for Iran Industries Investment Company surfaced http://217.218.139.225/ and displayed contact text and a 152,721 visits counter. This is snippet-only, no direct access. It is distinct from saham.iiicompany.com, which direct fetch routed to HugeDomains. No portal open/login/form/testing; no confirmation of control, freshness, security, function, or actual user experience. Added S29. Updated QC 21,550, gap 8,450; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — entity-resolution and temporal filtering protocol — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 164 (total 168). Added report methodology note: require exact legal name/ticker/domain match; filter footballer “Viera,” similarly named legal entities, unrelated issuer names, archive widgets; distinguish publication date from event date; exclude all post-cutoff content. Query batch did not verify official Aparat/company media profile or a new interview. Non-detection is not proof of absence. No new evidence row. QC 21,704; gap 8,296; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — historical date visible for shareholder-system snippet — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 168 (total 172). Search snippet for IP route 217.218.139.225 shows page-level update label 1403/05/28. Login section exists but credentials/authentication instructions were not recorded or repeated; no portal open/test, login, form or PII. Current control, security, function, owner and replacement route unknown. Generic IFB/other issuer/vendor results do not identify Vaira system vendor or prove switch need. Updated S29 wording; no row duplicate. QC 21,964, gap 8,036; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — AGM pre-event calendar corroboration — ۱۴۰۵/۰۷/۲۹
+
+Direct fetch Nabzebourse 130019 dated 1405/02/30 lists Vaira’s 1405/03/03 AGM, Tehran, 09:00. Added S30. Secondary pre-event calendar is not proof alone; paired with S28 same-day AGM film page, which refers to Codal notice. Supports observable event-information sequence and potential full-service workflow categories only; no need/quality/vendor/performance inference. QC 22,111, gap 7,889; 176 depth-3, S01–S30, INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — Codal source-class check and limitations — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 176 (total 180), exact Codal/date terms returned no 1405/03/03 Vaira notice; S25 historical 1402/10/30 Codal snippet reappeared. Latest event remains secondary calendar S30 plus directly fetched same-day Nabzebourse video S28, which refers to Codal but notice itself not retrieved. Keep class distinctions; no claim of official streaming or current primary source; no portal/platform access/login. Updated QC 22,239, gap 7,761; S01–S30; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — direct fetch of 539628 disclosure-coverage genre — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 180 (total 184). Direct re-fetch Sedaye Bourse 539628 (18 Aban 1404), classified Corporate News/Codal-reader. It explicitly calls itself an amendment and links a material-disclosure report, but the linked primary was not opened/downloaded. Added S31: only secondary reporting of a corporate change/amended disclosure; transaction figures excluded; amendment alone is not proof of error, crisis or communications need. QC 22,390, gap 7,610; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — interview, spokesperson, PR hiring and media-contract search — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 184 (total 188). Exact-name/ticker + interview, CEO interview, PR manager, employment/contract terms yielded no verified Vaira interview, PR vacancy or media contract. Results were unrelated/stale/previously registered. A Shiran (different legal entity) interview excluded. This is only non-detection in this query batch, not a claim about internal staffing, incumbent or need. No new evidence row. QC 22,517; gap 7,483; S01–S31, INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — audiovisual/social channels and English-entity search — ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 188 (total 192), logged as S32. Only previously registered S28 secondary AGM-video page resurfaced. Embedded asset not opened; no verified official social post, independent photo/video report, production vendor or procurement. Search results included unrelated companies/stale profiles. Non-detection only; no claim of absent channel, engagement, quality or need. QC 22,672, gap 7,328; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — issuer site/index audit and AGM primary-source distinction — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 192; total 196; added S33. Search snippets indexed old iiicompany.com news/gallery/shareholder pages, but direct fetch during later continuation redirected to HugeDomains parked page; this later state is explicitly outside cutoff and not usable as historical evidence or inferred PR need. Indexed English news snippet dates to 1401. Codal S25 remains FY1402/1402-10-30, not 1405; current primary 1405 notice not retrieved. Post-cutoff event snippets excluded. No attributable shareholder complaint/current PR requirement found. QC 22,859; gap 7,141; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — historical shareholder-event access route — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 196; total 200; S34 expands the Codal-host search snippet for S25 (same document, not a second event). The FY1402 AGM notice snippet states date/time/location, invites shareholders/legal representatives, and names Rubika live stream route ir/vaira-iran; page not directly fetched. This is historical access-route evidence only. Route untested; audience metrics, Q&A/moderation, vendor, current status unknown. No verified official social account; Eitaa result belongs to separate Shiran entity. QC 23,082, gap 6,918; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — follow-up on historic shareholder channel and current PR evidence — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 200 (total 204), logged as S35. No new admissible Vaira 1405 AGM primary source, verified Rubika route, official social handle, current PR vacancy, shareholder complaint or vendor/procurement evidence. S25/S34 remain historical snippets; expired BankBourse directory stale and proves neither vacancy nor absence. Third-party market/tag pages and unrelated Khwarazmi board report excluded. No new source/event. QC 23,238, gap 6,762; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — earned-media format check — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 204 (total 208), S36. No new verified Vaira press conference, exclusive interview or AGM photo report. Results about Shiran, Shasta, Vasanat, Faml, Iran Khodro and others excluded. S28 third-party AGM video; S25/S34 historical invitation snippet only. No current commissioned content/vendor evidence. Non-detection only; post-cutoff parked-site state excluded from cutoff-era archive claims. QC 23,382, gap 6,618; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — CEO/media search and English acronym disambiguation — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 208 (total 212), S37. CEO/name/ticker + interview searches surfaced Dutch International Internet Investment Coöperatief (IIIC), unrelated firms and Dehghans; excluded. No new Vaira CEO interview or press conference. Prior board item S19 not double-counted. IIIC acronym non-unique; Dutch entity distinct from Vaira. Non-detection only, no conclusion on spokesperson/staff/media relations. QC 23,516, gap 6,484; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — AGM Q&A and shareholder discussion checks — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 212 (total 216), S38. 1405 AGM primary Codal notice not retrieved; S30 pre-event calendar and S28 secondary film only. Third-party TahlilApp forum proves only a forum page exists, not an attributable complaint or PR issue; not tested/contacted. Other issuers’ livestream/Q&A routes excluded; post-AGM financial snippets excluded. No new independent evidence of current need. QC 23,695; gap 6,305; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — critical retail-shareholder media mention (S39) — ۱۴۰۴/۰۸/۲۷
+
+Four depth-3 queries since 216 (total 220); direct fetch Nabz-e Bourse item 117062, dated 1404/08/27, pre-cutoff. In a shareholder-voice roundup the publisher places Vaira with three other tickers under its “signal-seller” heading and refers to promises/profits/losses. No specific complainant, evidence, Vaira-issued promise, causal account or issuer response is given; publisher states comments are not necessarily endorsed. Treat as one limited unverified earned-media/reputation-monitoring signal, not fact/misconduct/crisis/need. No form/messenger/contact; financial details excluded. QC 23,913; gap 6,087; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — anonymous Vaira complaint in shareholder-voice page (S40) — ۱۴۰۴/۰۴/۰۹
+
+Four depth-3 exact-phrase searches since 220; total 224; direct fetch Nabz-e Bourse 103502, page date 1404/04/09. Anonymous user says “your team” encouraged Vaira purchase; publisher explicitly says user messages are not endorsed. The team’s identity, evidence, channel/date, issuer connection, veracity and company reply unknown. A ticker-attributable published complaint, but encouragement is not attributable to the issuer; no verified violation/legal finding. S39 and S40 same outlet/series, not independent corroboration. Limited monitoring/claim-tracking relevance. No user/media contact, forms/messenger use, or financial/investment content. QC 24,123, gap 5,877; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — verification search for anonymous “team” allegation — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 224 (total 228), S41. Exact ticker/phrase queries returned S39/S40 again; no independent corroboration or issuer reply. Third-party “signal Vaira” posts do not identify the complainant’s “team”; general regulator context not issuer-specific. S40 remains one anonymous submission; S39 later distinct roundup in same media series, not corroboration. No contact/form use. QC 24,287; gap 5,713; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — shareholder-complaint query breadth and entity control — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 228 (total 232), S42. Complaint/responding queries surfaced S39/S40 only; no independent second Vaira complaint or issuer response. This does not deny unindexed complaints. Similar ticker “Vayran” is Iranian Leasing, distinct and excluded; post-cutoff result excluded. IFB result is broker complaint form; not opened/submitted. No financial advice, form use or contact. QC 24,432; gap 5,568; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — repeat interview/event/gallery search — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 queries since 232 (total 236), S43. No new Vaira interview/press conference/gallery/1405 primary notice. Dehghan/Sorin interview on petrochemical funds post-cutoff and unrelated; generic platform sales claims excluded. No new event/vendor evidence. QC 24,540, gap 5,460; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — issuer-domain ethics charter snippet — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 searches since 236 (total 240); S44. Indexed snippet on iiicompany.com ethics charter states shareholder transparency/accountability, welcome feedback and complaints as improvement opportunities. Undated/unversioned; later direct fetch redirected to parked domain, so text not independently fetched; cannot prove currentness or cutoff availability. S40 juxtaposition does not prove inconsistency/breach; “team” identity unknown. Only a hypothesis for expert-clearance-gated policy/practice diligence; no outreach. QC 24,762; gap 5,238; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — charter text provenance audit — cutoff ۱۴۰۵/۰۷/۲۹
+
+Four depth-3 exact-phrase queries since 240 (total 244), S45. Long S44 text (“shareholders as business partners”; complaints as strategic improvement opportunities) appears verbatim/near-verbatim on unrelated organization charter pages. Possible template/boilerplate or copied wording; origin, direction, license, approval and enforcement unknown. Downgrade S44 to indexed text attributed to company domain, not verified policy/practice/current-at-cutoff. S40 juxtaposition proves no breach/gap. S45 is provenance query log, not independent source. QC 24,923; gap 5,077; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — earned/owned, AGM communications and media search — ۸ جست‌وجو، S46
+
+۸۲. رصد پوشش رسانه‌ای و کانال‌های عمومی (۸ جست‌وجوی depth-3، S46؛ مجموع جست‌وجوها ۲۵۲). جست‌وجوها نتایج ناهمگنی یافتند و باید مرزهای ادعا روشن بماند. (الف) نمایهٔ نبض بورس و فهرست‌های تجمیعی بازنشر، عمدتاً خبرهای مبتنی بر اطلاعیه‌های رسمی/کدال درباره گزارش‌های دوره‌ای، توقف و بازگشایی نماد و مجامع را نشان می‌دهند؛ چندین تیتر، یک خبر/افشا را در چند جا تکرار می‌کند و بنابراین تعداد صفحات یا تیترها، تعداد پوشش مستقل یا ارزش روابط رسانه‌ای نیست. (ب) یک مدخل تاریخ‌دار کدال در نتیجهٔ جست‌وجو، دعوت مجمع سالیانهٔ ۱۴۰۲/۰۶/۳۱ را با نشانی محل و امکان پخش زنده از روبیکا فهرست می‌کند. این مدرک برای وجود فرآیند رسمیِ اطلاع‌رسانی رویداد سهامداران در همان مقطع است؛ نه گواه کیفیت اجرا، تعامل/پاسخ‌گویی زنده، حضور رسانه، یا رویداد عمومی/بازاریابی. آن را corporate-event communication واقعاً مستند می‌دانیم، اما دامنه‌اش محدود به مجمع/سهامداران است. (ج) نتیجهٔ سامانهٔ اطلاع‌رسانی سهامداران ذیل دامنهٔ saham.iiicompany.com و نیز صفحه‌های قدیمی/آرشیوی شرکت، کانال‌های owned/اطلاع‌رسانی رسمی را نشان می‌دهد؛ صفحهٔ قدیمیِ خبر انگلیسی تا موارد ۲۰۲۱ فهرست شده و صفحه‌های گزارش/مقاله نیز محتوای قدیمی دارند. این‌ها مشاهدهٔ نمایه‌شدهٔ زمان‌مند/قدیمی‌اند، نه ارزیابی کامل و زندهٔ وضعیت سامانه در تاریخ قطع. direct reachability و فعالیت کنونیِ سامانه در این batch با لاگین/فرم یا آزمون تعاملی بررسی نشد. (د) نتیجهٔ جست‌وجوی یک شرکت-اطلاعات-ثالث خالی نشان می‌داد «مدیر روابط عمومی» و «اخبار شرکت» را؛ چون فهرست قدیمی است (انقضای آگهی ۱۴۰۳/۱۱/۰۱)، این داده نه اثبات نبود نقش/کارمند داخلی در حال حاضر است و نه مجوز نسبت دادن خلأ منابع. (هـ) نتایج دربارهٔ مصاحبه و مراسم عمدتاً نامرتبط، تجمیعی، یا مربوط به شرکت‌های هم‌نام/نمادهای دیگر بودند؛ هیچ مصاحبهٔ تازه و قابل‌انتساب به وایرا یا رویداد شرکتی مستقل در این هشت جست‌وجو تأیید نشد. محتواهای ۱۴۰۵ و پس از تاریخ قطع کنار گذاشته شدند. (و) منابع ناشر/کدال برای اطلاعیه‌های شرکتی، رسانه‌های تخصصی برای بازنشر یا خلاصه‌سازی، و دایرکتوری‌های تجاری برای اطلاعات ثانویه جدا طبقه‌بندی شدند؛ دومی‌ها برای ادعاهای فعلی ضعیف‌ترند. فهرست نتایج: https://iiicompany.com/category/news-en/?lang=en ؛ https://iiicompany.com/category/reports/ ؛ https://iiicompany.com/category/article/ ؛ http://saham.iiicompany.com/ ؛ http://217.218.139.225/ ؛ https://codal.ir/Reports/Decision.aspx?LetterSerial=dyArQqixlKTN2ocCZG3dEw==&rt=2&let=16&ct=0&ft=-1 ؛ https://nabzebourse.com/fa/tags/1830/1/وایرا ؛ https://bankbourse.ir/listofaudit/شرکت-های-بورسی/AuditBank/vaira-2012.html . جمع‌بندی کاربرد PR: شواهدْ سابقهٔ انتشار اطلاعیه/محتوای شرکتی و مجمع سهامداران را ثابت می‌کنند و media pickup غالباً disclosure-led است؛ نیاز اثبات‌شده به آژانس، ضعفِ قطعیِ owned channel، کمبود پوشش، یا نبود روابط‌عمومی داخلی را ثابت نمی‌کنند. برای Aaron این شواهد صرفاً امکان ارائهٔ خدمات کاملِ پشتیبانی از رویداد سهامداران و هماهنگی earned/owned را در صورت نیاز آینده مطرح می‌کند—نه نیاز/بودجه/فرصة فروشِ احراز‌شده. اولویت‌بندی و وضعیت کیس تغییر نمی‌کنند.
+
+QC 25,319 words; gap 4,681; total 252 depth-3 searches; INCOMPLETE / HOLD / NO OUTREACH.
+
+
+### F-079 — AGM/owned/earned media audit, S47
+
+۸۳. ممیزی افزودهٔ چرخهٔ مجمع و کانال سهامدار (۱۲ query عمق ۳ دیگر؛ S47؛ شمار کل جست‌وجوها ۲۷۲). در این مرحله جست‌وجوهای دقیق دامنه، عبارت و کدال انجام شد. نتیجهٔ کدالِ دعوت مجمع ۱۴۰۲/۱۰/۳۰ یک مدرک Primary محسوب می‌شود که با صراحت محل برگزاری را در برج سرو ساعی و مسیر مشاهدهٔ برخط را در Rubika «vaira-iran» معرفی می‌کند؛ این از سطح برنامه‌ریزی بالاتر از صرف یک فهرست رسانه‌ای است، ولی فقط «مسیر اعلام‌شده در دعوت‌نامه» را ثابت می‌کند. دسترسی عملی، پایداری، میزان مخاطب، چگونگی ثبت و پاسخ به پرسش سهامداران، ضبط آرشیو، میزان مشارکت و سنجش رضایت از متن دعوت قابل استنتاج نیست. نتیجهٔ دیگری از یک تجمیع‌کننده، دعوت مجمع فوق‌العاده ۱۴۰۱/۰۲/۰۴ را برای تصمیم درباره افزایش سرمایه در همان دفتر مرکزی گزارش می‌کند؛ منبع ثانویه و با ارجاع به کدال است، پس مستقلاً اثبات رویداد رسانه‌ای یا کیفیت تجربه نیست. یک صفحهٔ بانک اطلاعات بازار، مدخل دعوت مجمع ۱۴۰۳/۰۷/۱۱ را در فهرست تاریخچه مجامع بازمی‌گرداند و برای ۱۴۰۲/۱۰/۳۰ نیز سابقه نشان می‌دهد؛ چون خود صفحهٔ اصلی افشای هر مجمع را در این جست‌وجوها نگرفتیم، از آن فقط برای cross-check تاریخ/وجود مدخل استفاده می‌شود. در یکی از نتایج جست‌وجو، فهرست دیگری (سهمتو) زمان‌بندی ۱۴۰۳/۰۷/۱۱ را برای مجامع عادی و فوق‌العاده، با ردیف‌های اصلاحیه، فهرست کرده و ۱۴۰۲/۱۰/۳۰ را نیز ثبت می‌کند؛ ساختار ردیف‌های اصلاحیه نشان می‌دهد که چرخهٔ دعوت می‌تواند نیازمند نگهداری نسخه‌ها و اصلاحات باشد، اما نه این‌که کدام نسخه معتبر یا اشتباه بوده است. برای PR، تنها پیشنهاد متناسب با این داده‌ها، قابلیت اجرایی و تحریریه‌ایِ رویداد سهامداران است: تقویم واحد، نسخه‌بندی واضح اطلاعیه‌ها، FAQ فقط از پرسش‌های رسمی/تأییدشده، مدیریت هم‌زمان حضوری و برخط و ثبت خروجی‌های پس از مجمع؛ اینها «قابلیت‌های قابل ارائه» هستند، نه ادعای کمبود یا نیاز شرکت. اطلاعات مالی/تصمیم‌گیری مجمع خارج از دامنهٔ این پرونده است و در این بخش بازگو یا توصیه نمی‌شود.
+
+۸۴. Owned media و معماری محتوا — شواهد صفحه‌ای و حدودشان. نمایهٔ سایت شرکت ساختار نسبتاً قابل‌تشخیصی را برای مخاطب می‌نمایاند: «اخبار و انتشارات» به اخبار، مقالات، گزارشات؛ «درباره صنایع ایران» به آشنایی، تیم مدیریتی، ساختار سازمانی، سهامداران و منشور؛ گالری‌های جداگانه برای شرکت مادر و چند نام که در منو کنار آن آمده‌اند؛ تماس و وضعیت سهام. دسته‌های سایت و صفحات آن به‌عنوان evidence of information architecture استفاده شده‌اند، نه معیار usability. بخش انگلیسیِ news یک لیست تاریخی دارد که نتیجهٔ جست‌وجو موارد ۲۰۲۰ و ۲۰۲۱ را نشان می‌دهد. بخش گزارش‌ها و مقالات نیز بر اساس snippet تاریخ‌های ۱۳۹۸–۱۴۰۱ و چند عنوان تحلیل/گزارش شرکت‌های دیگر را فهرست می‌کند؛ بنابراین محتوای آرشیوی، فقط وجود سابقهٔ انتشار را نشان می‌دهد و نباید به‌عنوان برنامهٔ محتوایی جاری یا خبررسانی فعال معرفی شود. گالری رسمی به‌صورت صفحهٔ دسته‌بندی، چهار گالری را نام می‌برد: صنایع ایران، بورسیران، شیمی صنعت فرزان و فرزان تجارت پارمیس. وجود فهرست گالری‌ها می‌تواند برای روایت بصری و معماری گروه مهم باشد؛ اما تعداد/تاریخ/محتوای عکس‌ها، حق استفاده و فعال بودن فایل‌ها از snippet معلوم نیست. جست‌وجوی عبارت‌های اختصاصی زیرصفحهٔ گالری فرزان تجارت پارمیس همان منو و عنوان را برگرداند، نه گزارش برنامه، رویداد یا فعالیت. هیچ نمونهٔ تازه و دارای تاریخ از کمپین، بیانیهٔ عمومی، گزارش پایداری، داستان کارکنان یا پوشش تصویری رویداد در نتایج این batch مشاهده نشد. این «عدم مشاهده در محدودهٔ جست‌وجو» است، نه نبود آن در فضای آنلاین. Domain fetchهای پیشین در این پرونده با صفحهٔ فروش دامنه مواجه شده‌اند؛ ازاین‌رو snippetهای ایندکس‌شده را نمی‌توان با وضعیت زندهٔ وبگاه یکی دانست. در صورت تهیهٔ خدمت برای سازمان مشابه، نقش آژانس می‌تواند ممیزی محتوا، نظم آرشیو، نسخهٔ فارسی/انگلیسی هم‌ارز، tagging تاریخ و دسته، و تقویم نشر/بازنشر را دربر گیرد؛ این یک menu of potential work است. از داده‌های موجود نمی‌توان گفت شرکت این خدمات را می‌خواهد، بودجه دارد، یا صاحب داخلی این حوزه را ندارد.
+
+۸۵. earned-media footprint و تفکیک بازنشر از گزارش مستقل. جست‌وجوی وایرا در نبض بورس یک صفحهٔ tag با مجموعه‌ای از headlines عرضه می‌کند: خبر صورت‌های مالی شش‌ماهه، آماده بازگشایی نماد، انتشار صورت مالی، گزارش سود سه‌ماهه، توقف نماد و مجمع؛ کد خبر و تاریخ انتشار در بخشی از سطرها آمده است. یک گزارش مستقل‌ترِ قابل مشاهده، خبر ۱۴۰۴/۰۳/۱۸ را به‌صراحت بر داده‌های صورت مالی ۶ماهه منتهی به ۱۴۰۳/۱۲/۳۰ ارجاع می‌دهد و خود را گزارش نبض بورس معرفی می‌کند. بااین‌حال محتوای اصلی از disclosure رسمی/صورت مالی استخراج شده و چند خبر دیگر در tag فقط عنوان/خلاصه‌اند؛ در اندازه‌گیری media value باید آنها را «توزیع ثانویهٔ اطلاعات ناشر» شمرد، نه earned coverage حاوی تحلیل، مصاحبه یا angle مستقل. نتایج تجمیع‌گر Vista چندین بار عنوانی واحد از بورس۲۴ یا رسانهٔ دیگر را در صفحات موضوعی سرمایه‌گذاری، واگذاری سهم و کدال بازنمایی می‌کنند. این بارها یک مسیر انتشار/ syndication می‌سازند، اما شمار رسانه‌های مستقل را بالا نمی‌برند. خبر ۲۰۲۱ دریافت مجوز فعالیت سبدگردان سورین در صدای بورس نیز از کدال مشتق شده؛ صفحهٔ هدف همان خبر را با عبارت‌های نزدیک بازنشر می‌کند. این تاریخچه برای ردیابی نوع خروجی‌های عمومی مفید است، اما نمونهٔ قدیمی است و نباید به صورت دلالت بر روابط فعال فعلی به‌کار رود. خبرهای دربارهٔ واگذاری سورین در نوامبر ۲۰۲۵ پس از cutoff پژوهش ۱۴۰۵/۰۷/۲۹ قرار دارند و کنار گذاشته شده‌اند، حتی اگر index امروز آنها را عرضه کند. خبری با تاریخ ۱۴۰۵/۰۸/۱۴ و رویداد آتی ۱۴۰۵/۰۸/۲۵ نیز صریحاً خارج از cutoff است. نتایج دربارهٔ نماد «فایرا» (آلومینیوم ایران)، «شیران» (سرمایه‌گذاری صنایع شیمیایی ایران)، «وسرمایه» و شرکت‌های سرمایه‌گذاری دیگر عمداً از شواهد وایرا حذف شده‌اند؛ شباهت واژه‌های ایران/صنایع/سرمایه یا حروف نماد، انتساب را مجاز نمی‌کند. یافتهٔ منفی دقیق‌تر: در ۲۰ query اخیر مصاحبهٔ تازهٔ قابل‌انتساب به مدیرعامل وایرا یا feature independent دربارهٔ خود شرکت پیدا نشد؛ ولی جست‌وجو فقط با queryهای ثبت‌شده انجام شده و کامل‌بودن آرشیو رسانه‌ها ادعا نمی‌شود. برای Aaron، یک برنامهٔ earned media قابل‌دفاع باید ابتدا از شرکت موضوعات مجاز و سخنگوی مجاز را دریافت کند، سپس تفاوت بین disclosureهای الزامی و روایت سازمانیِ قابل انتشار را حفظ کند و از هرگونه بازنویسی که اطلاعات مالی/بازاریِ افشانشده‌نشده ایجاد کند پرهیز نماید. در این پرونده نه محتوای پیشنهادی تهیه می‌شود نه outreach انجام خواهد شد.
+
+۸۶. کیفیت فهرست‌های سازمانی ثالث و داده‌های تماس — قرائت محتاطانه. دایرکتوری BankBourse در برش‌های نمایه‌شده نام مدیران، تلفن، ایمیل عمومی info@، نشانی و فیلدهای خالی برای منابع انسانی، مدیر سهام و روابط‌عمومی را عرضه می‌کند؛ خود نتیجه تاریخ انقضا ۱۴۰۳/۱۱/۰۱ را درج کرده است. «فیلد خالی» ممکن است از محدودیت گردآوری/به‌روزرسانی دایرکتوری یا نبود داده در رکورد باشد، و از نظر منطقی اثبات نبود نقش سازمانی نیست. FIPIRAN نیز در نتیجه‌ای دیگر نماد، نام، یک تلفن، ایمیل و سایت را فهرست می‌کند، اما این رکورد در خود snippet تاریخ بروزرسانی روشنی ندارد. منبع سوم، صفحهٔ فرابورس، برای نماد و شناسهٔ ابزار کاربرد دارد؛ نباید صفحهٔ اطلاعات نماد یا قیمت را به‌عنوان دلیلی برای تصمیم فروش/پیشنهاد سرمایه‌گذاری به کار گرفت. در این گزارش از داده‌های سرمایه‌گذاری برای تجویز مالی، توصیهٔ سهم یا تعیین بودجهٔ روابط‌عمومی استفاده نمی‌شود. اطلاعات تماس عمومی فقط برای شناخت کانال سازمانی ثبت می‌شود؛ بنا بر دستور ایمنی پرونده، هیچ تماس، درخواست، آزمون فرم/پرتال، ورود یا پیام ارسال نمی‌شود. مخصوصاً سامانهٔ saham در نتیجهٔ جست‌وجو روش ورود سهامدار و ورودی‌های احراز هویت را نمایش می‌دهد؛ آن اطلاعات عمداً بازنشر عملیاتی نمی‌شود و هیچ ورود یا آزمونی انجام نشده است. این مرز برای PR نیز مهم است: «در دسترس بودن یک ایمیل عمومی» با مجوز outreach برابر نیست و هیچ فردی در این گزارش به‌عنوان decision-maker تأیید نشده است. تا زمانی که case-specific expert clearance کتبی و اجازهٔ صریح کاربر موجود نباشد، تماس ممنوع باقی می‌ماند.
+
+۸۷. ارزیابی مناسب‌بودن پیشنهاد خدمات Aaron بر اساس evidence، نه بر اساس فضای سفید فرضی. شواهد قابل استفاده: (۱) یک دعوت‌نامهٔ رسمی مجمع با محل، دستور جلسه و کانال مشاهدهٔ برخط، (۲) فهرست ساختار سایت به زبان فارسی و انگلیسی و دسته‌بندی محتوا، (۳) سابقهٔ نمایه‌شدهٔ محتواهای خبری/تحلیلی و گالری‌های وابسته، (۴) بازنشر رسانه‌ایِ بخشی از افشاهای رسمی، (۵) یک کانال اطلاع‌رسانی سهامداران با وجودِ فهرست‌شده اما دسترسی/کارکرد کنونیِ آزمون‌نشده، و (۶) مورد قبلی S44 با اعتبار پایین و provenance مسئله‌دار که برای استنباط سیاست اجرایی کنار گذاشته شده است. آنچه این داده‌ها پشتیبانی می‌کنند، «صلاحیت بالقوهٔ عرضهٔ خدمت» است: برنامه‌ریزی ارتباطات رویداد سهامداران؛ تولید و بازآرایی محتوای مالکیتی در چارچوب تأیید ناشر؛ هماهنگی توضیح‌دهندگان رسانه‌ای صرفاً بر اساس افشای عمومی؛ مدیریت آرشیو و پیام‌های فارسی/انگلیسی؛ پایش و گزارش پوشش با حذف syndication؛ و تمرین سناریوی پرسش‌وپاسخ با محتوای مجاز. هیچ‌یک اثبات نمی‌کند که شرکت به این خدمات نیاز دارد یا از بیرون خرید می‌کند. هیچ شاهدی از درخواست مناقصه/آژانس، بودجه، نارضایتی، بحران جاری، شکست رویداد، شکایت حل‌نشده، ارزیابی داخلی، اهداف ارتباطی یا رضایت از پیمانکار موجود در batchها نیست. نبود شاهد در جست‌وجو هم، شاهد نبود فعالیت نیست. نسبت به اولویت‌های Aaron، fit ارزیابی‌شده از جنس «تناسب کاربردی مشروط و مستند به چند خروجی رسمی» است، نه «فرصت فروش تأییدشده». رتبه‌بندی کلی پروژه و تقدم DotOne دست‌نخورده می‌ماند؛ F-037 همچنان خارج از دامنه است؛ این پرونده هیچ مجوزی برای outreach یا proposal ایجاد نمی‌کند. وضعیت F-079 باید تا تکمیل معیار کلمه و clearance باقی بماند.
+
+۸۸. Evidence ledger تکمیلی این batch (S47؛ بیست query عمق ۳ از جست‌وجوهای همین دورها، برخی نتایج تکراری/غیرمرتبط). الف) کدال، دعوت مجمع سالیانه ۱۴۰۲: https://codal.ir/Reports/Decision.aspx?LetterSerial=dyArQqixlKTN2ocCZG3dEw==&rt=2&let=16&ct=0&ft=-1 — primary listing snippet، محل و Rubika livestream؛ cutoff compatible، اجرای واقعی نامعلوم. ب) صفحهٔ رسمی ترکیب سهامداران پایان سال ۱۴۰۲: https://iiicompany.com/ترکیب-سهامداران/ — owned page snippet؛ فقط محتوای فهرست‌شده و وضعیت زندهٔ سایت نامعلوم. ج) صفحهٔ رسمی گالری: https://iiicompany.com/گالری-تصاویر/ و صفحهٔ گالری فرزان تجارت پارمیس: https://iiicompany.com/گالری-فرزان-تجارت-پارمیس/ — فهرست معماری و گالری‌های نام‌گذاری‌شده، بدون تأیید تعداد/تاریخ asset. د) صفحهٔ اصلی سامانهٔ سهامداران قدیمی: http://217.218.139.225/ — تاریخ نمایش‌داده‌شده در snippet ۱۴۰۳/۰۵/۲۸ یا ۱۴۰۴/۰۱/۲۰ در نتایج متفاوت؛ این ناهمخوانی تاریخ‌های index باعث می‌شود نتوان status روز را با اطمینان تعیین کرد. سامانه دسترسی سهامدار را پیش‌بینی می‌کند؛ هرگز وارد یا امتحان نشده. هـ) نبض بورس: https://nabzebourse.com/fa/tags/1830/1/وایرا و https://nabzebourse.com/fa/news/102402/سود-۷۱-درصدی-این-نماد-در-عملکرد-۶-ماهه — tag و یک نمونهٔ ثانویهٔ گزارش مبتنی بر صورت مالی؛ جدا از انتشار مستقل. و) پوشش قدیمی مجوز سورین: https://www.sedayebourse.ir/news/440839/وایرا-مجوز-فعالیت-شرکت-فرعی-دریافت-کرد و https://ihadaf.com/وایرا-مجوز-تاسیس-شرکت-سبدگردانی-گرفت/ — دو بازنشر/خلاصه از یک اطلاعیه، نه دو اعتبارسنجی. ز) برنامهٔ مجمع ۱۴۰۱ در نبض بورس: https://nabzebourse.com/fa/news/42221/این-هفته-مجامع-کدام-شرکت‌ها-برگزار-می‌شود — source ثانویه با ارجاع به کدال. ح) فهرست ثالث سازمانی با رکورد منقضی: https://bankbourse.ir/listofaudit/شرکت-های-بورسی/AuditBank/vaira-2012.html — به‌روزرسانی نامعلوم/انقضای درج‌شده، تنها برای ثبت نوع داده و محدودیتش. ط) سایت رسمی categoryها: https://iiicompany.com/category/reports/ ؛ https://iiicompany.com/category/article/ ؛ https://iiicompany.com/category/news-en/?lang=en — indexها محتوای قدیمی نشان می‌دهند، نه ارزیابی کامل activity. ی) نتایج مصاحبه و media search فاقد مصاحبهٔ تازهٔ attributable بودند؛ نتیجه‌های نامرتبط از بازیگر «دهقان»، شرکت شیران، نماد فایرا و مطالب آینده‌تاریخ حذف شدند. این فهرست خودِ raw query log را جایگزین نمی‌کند؛ پرسش‌ها در تاریخچهٔ جست‌وجو ثبت شده و فایل محلیِ معتبری برای صفحات web نگهداری نشده است. هر source class در workbook به شکل observed snippet/issuer listing/secondary media/directory و caveat جداگانه ثبت شده است.
+
+QC 27,060 words; gap 2,940; 272 depth-3; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — media history and group communications audit, S48
+
+۸۹. ارتباطات شرکت‌های وابسته/نام‌های حاضر در معماری برند — تفکیک parent از subsidiary و صرفِ نام در منو. صفحهٔ گالری شرکت مادر نام بورسیران، شیمی صنعت فرزان و فرزان تجارت پارمیس را کنار گالری صنایع ایران نمایش می‌دهد. یک منبع مستقل شرکت بورسیران را زیرمجموعهٔ شرکت سرمایه‌گذاری صنایع ایران معرفی می‌کند و صفحهٔ بورسیران برای خود، بخش‌هایی چون «اخبار و رویدادها»، مقالات/وبلاگ و تحلیل‌های نماد دارد. نتایج نمایه‌شدهٔ بورسیران شامل یادداشت‌های قدیمی آموزش بازار سرمایه و تعدادی تحلیل تاریخ‌دار (از جمله ۱۴۰۱) است. صفحهٔ خودش پیام مدیرعامل/راهبر درباره هدایت کارگزاری و تعامل با سرمایه‌گذاران را نشان می‌دهد؛ صفحهٔ indexdated ۲۰۲۱ است. این evidence متعلق به کارگزاری و audience آن است، نه اثبات سیاست ارتباطی یا رسانه‌ای parent. گالری رسمیِ شرکت مادر نام دو شرکت دیگر را هم درج کرده اما رابطهٔ حقوقی/کنترلیِ به‌روز از خود گالری استنتاج نمی‌شود. یک پروفایل ثالث بازار نام سه شرکت تابعه را ادعا می‌کند و یک دایرکتوری تجاری نیز دربارهٔ بورسیران توضیح می‌دهد؛ چون این صفحات ممکن است کهنه باشند، آنها صرفاً قرینهٔ انتساب دسته‌ای‌اند و برای وضعیت کنونی ownership یا سرویس‌های آن شرکت‌ها مبنا قرار نمی‌گیرند. فهرست ثبتی third-party دربارهٔ شرکت قند مرودشت اسامی بعضی اشخاص حقوقی هم‌نام را در صورتجلسه‌های قدیمی نشان می‌دهد؛ این داده را برای ساختار فعلی یا پیام برند استفاده نمی‌کنیم و اشخاص حقیقی آن صفحات را در سطح این deliverable بازنشر نمی‌کنیم. از منظر ارتباطات گروه، فقط می‌توان سوال عملیِ ارزیابی تعریف کرد: آیا شرکت مادر برای سهامداران/ذینفعان خود یک روایت گروهی دارد که مرز برند، اختیار سخنگویی و کانال‌های subsidiary را روشن سازد؟ پاسخ از شواهد حاضر نامعلوم است. آژانس می‌تواند در صورت commission، نقشهٔ مخاطب/مالکیتِ محتوایی و protocol ارجاع میان برند مادر و شرکت وابسته بسازد؛ اما هیچ نشانهٔ مستندی از ابهام واقعی، بحران هماهنگی یا تقاضای این خدمت نداریم. در رده‌بندی fit، این فقط capability برای کار گروهی است، نه نیاز تأییدشده.
+
+۹۰. مدرک تاریخی بین‌المللی درباره earned media و spokesperson — ارزشش و مرزش. جست‌وجوی انگلیسی یک مقالهٔ Telegraph با تاریخ ۱۲ ژوئیهٔ ۲۰۱۵ با عنوان “Iran is a once in a lifetime opportunity for brave investors” برگرداند که نقل‌قولی را به رضا سلطان‌زاده به‌عنوان managing director شرکت نسبت می‌دهد. مقاله در فضای پس از توافق هسته‌ای، روایت کلان فرصت سرمایه‌گذاری ایران و اظهارنظرهای مدیرعامل دربارهٔ بازار و صنایع را بازتاب می‌دهد. یک صفحهٔ برنامهٔ Harvard Iranian Weekend در آوریل ۲۰۱۶ نیز سلطان‌زاده را به‌عنوان CEO of IIIC معرفی و سابقهٔ شرکت و بورسیران را خلاصه می‌کند. این دو مورد نسبت به خبرهای صرفاً بازنشرشده از کدال، فرمت earned editorial/interview/profile با سخنگوی منتسب دارند؛ بنابراین شاهد واقعی تاریخی از ظرفیت دسترسی به رسانهٔ بین‌المللی و استفاده از مدیرعامل به‌عنوان spokesperson به شمار می‌روند. اما فاصلهٔ زمانی بیش از یک دهه، تغییر اشخاص/بازار/موضوع، و زمینهٔ خاص ۲۰۱۵ سبب می‌شود آنها هیچ‌چیز دربارهٔ فعالیت PR جاری، تداوم روابط رسانه‌ای، شرکت طرف قرارداد، کیفیت پیام‌گذاری امروز یا willingness to engage نگویند. عنوان پرزرق‌وبرق Telegraph بازتابِ editorial framing رسانه است، نه پیام رسمی شرکت و نه توصیهٔ سرمایه‌گذاری که این گزارش آن را تکرار کند. محتواهای ارقام و پیش‌بینی‌های آن زمان به‌دلیل خارج‌بودن از scope مالی این گزارش بازگویی نمی‌شوند. کاربرد برای Aaron فقط این مشاهدهٔ محدود است: در گذشته یک مدیر ارشد با نام و عنوان سازمانی در مصاحبهٔ عمومی قابل انتساب ظاهر شده؛ لذا «هیچ‌گاه spokesperson بیرونی نداشته‌اند» نادرست است. در عین حال وجود یک مصاحبهٔ ۲۰۱۵ دلیل نیاز امروزی به media relations نیست. هر خدمت احتمالی باید از spokespersonهای مجاز فعلی و موضوعات مجازِ تأییدشده آغاز شود، نه از فرض تداوم آن دوره.
+
+۹۱. portfolio/group storytelling در owned media — ارزیابی به جای روایت دارایی. منوی وبگاه شرکت، لینک‌های بورس تهران، سازمان بورس، مدیریت فناوری بورس، فرابورس و Sorin Capital را در نسخهٔ انگلیسیِ About نشان می‌دهد؛ صفحهٔ گالری فارسی چند برند/شرکت گروه را نام می‌برد؛ یک report archive قدیمی تحلیل‌هایی با نام شرکت‌های بیرونی و یک گزارش شرکت مادیرا را ثبت می‌کند. این چیدمان نشان می‌دهد معماری سایت بالقوه چند نقش دارد: معرفی خود ناشر، تسهیل دسترسی به نهادهای بازار، نمایش شرکت‌ها/برندهای مرتبط، و آرشیو گزارش/محتوای تحلیلی. اما اینکه کاربران واقعی کدام مسیرها را به کار می‌گیرند، هر صفحه مالک داخلی دارد یا نه، و کدام واحد پاسخگوی درخواست رسانه است، unknown است؛ نه analytics در دسترس است، نه ساختار سازمانی قابل راستی‌آزماییِ زنده، نه مصاحبه با شرکت. مهم است که محتوای کارگزاری را با محتوای شرکت سرمایه‌گذاری یکی نگیریم: کارگزاری بورسیران در وب خود محتوای آموزشی/تحلیلی و «اخبار و رویدادها» دارد؛ این خروجی‌ها برای مشتریان brokerage است و بدون authorization نباید تحت برند parent به‌عنوان thought leadership آن شرکت عرضه شود. همچنین گالری‌بودن یک category مساویِ موجودیت photo/video asset قابل‌انتشار نیست. در صورت درخواست رسمی، خروجی مفید برای Aaron می‌تواند یک «content ownership matrix» باشد که برای هر موضوع، entity، مخاطب، سخنگو، مسیر مجوزدهی، زبان، مالک حقوقی دارایی، تاریخ بازبینی و رسانهٔ انتشار را ثبت کند. این طرح عمداً به‌جای فرض «گروه پیام واحد ندارد»، یک راه‌حل اختیاری برای کاهش ریسک خلط entityهاست. هیچ محتوای سرمایه‌گذاری، معرفی عملکرد یا claim مالی در این پرونده ساخته نمی‌شود.
+
+۹۲. جدول کارکردهای قابل‌تصور و شواهد لازم برای فعال‌کردن آنها. (الف) پشتیبانی مجمع: evidence فعلی یک دعوت‌نامهٔ کدال با محل و Rubika است. پیش از پیشنهاد اجرا باید از ناشر/مجوزدار، تاریخ و فرمت مجمع آینده، کانال رسمی موجود، مالک پاسخگویی به پرسش‌ها، محدودیت‌های مقرراتی و مسئلهٔ واقعی اجرایی تأیید شود؛ گزارش حاضر اجازهٔ دسترسی به پرتال یا آزمون کانال را نمی‌دهد. (ب) خدمات رسانه: evidence فعلی پوشش ناشی از اطلاعیه و یک نمونهٔ مصاحبهٔ تاریخی ۲۰۱۵. قبل از کمپین باید اهداف، موضوع مجاز، سخنگوی فعلی، تمایل مدیران، قواعد افشا و مرز تحلیل مالی معلوم شود. (ج) مدیریت محتوای owned: evidence فعلی منوی سایت، آرشیوهای indexed و گالری‌های نام‌گذاری‌شده. قبل از ممیزی اجرایی، دسترسی رسمی به CMS/analytics و تأیید صاحب محتوا لازم است؛ تا آن زمان نمی‌توان عملکرد فنی/دسترسی‌پذیری/تازگی سایت را نمره داد. (د) پیام‌رسانی چندبرندی: وجود نام چند شرکت در منو و یک شرکت وابستهٔ شناخته‌شده در منابع قدیمی. قبل از طراحی معماری گروه باید scope شرکت‌های تحت پوشش، مالکیت فعلی، brand permissions و مخاطبان هر واحد مستند شوند. (هـ) آمادگی پاسخ‌گویی و سناریو: شواهد S40 allegation غیرمستقل و ناشناخته دربارهٔ تیم بود و issuer response تأیید نشد؛ این به‌هیچ‌وجه اثبات بحران یا نیاز crisis PR نیست. هر tabletop صرفاً در چارچوب درخواست، سناریوی مجاز و اطلاعات تأییدشده ممکن است. (و) سنجش earned coverage: evidence tagهای تجمیعی خبرهاست. measurement مناسب باید item ID، تاریخ، ناشر اولیه، نقل‌قول/independence، syndicated duplicate، tone (با نمونه‌گیری انسانی)، موضوع، مخاطب و نوع disclosure را جدا کند. هیچ حجم impression یا sentiment اینجا برآورد نشده است. این جدول فاصلهٔ میان «در رزومهٔ آژانس هست» و «prospect need اثبات شده» را صریح می‌کند؛ وضعیت تا رسیدن سیگنال واقعی demand نامعلوم باقی می‌ماند.
+
+۹۳. جمع‌بندی جست‌وجوی بین‌المللی و وابسته‌ها (۱۲ جست‌وجوی عمق ۳ دیگر؛ S48؛ مجموع ۲۸۴ جست‌وجو). نتیجهٔ Telegraph ۲۰۱۵ و نمایهٔ رویداد دانشگاهی ۲۰۱۶ هر دو به رضا سلطان‌زاده و IIIC منتسب‌اند و فقط سابقهٔ تاریخی spokesperson/external profile را نشان می‌دهند. نتیجهٔ homepage بورسیران و blog تحلیلی، حضور محتوای آموزشی و رویدادی برای خود brokerage را نشان می‌دهد، اما index صفحهٔ خانه تاریخ ۲۰۲۱ دارد و صفحات تحلیل تاریخ‌های قدیمی را بازمی‌گردانند؛ از آن فعالیت جاری نتیجه نمی‌گیریم. صفحهٔ رسمی parent گالری‌های چند نام گروه را کنار هم نشان می‌دهد. یک وب‌سایت رسمی Sorin در result خود ساختار مدیر/board مرتبط با شرکت سرمایه‌گذاری را نمایش می‌دهد؛ این مورد برای ربط تاریخی/سازمانی است و به‌علت عدم تأیید live corporate ownership یا وضعیت بعدی، فقط با caveat ثبت می‌شود؛ محتوای پس از cutoff یا رویدادهای ۱۴۰۵/۰۸ به بعد حذف است. یک خبر از انتصاب مدیران در ۱۴۰۴/۰۴ در صدای بورس نتیجه شد؛ چون صرفاً تیتر و اسامی و نه نقل قول، فرایند روابط‌عمومی یا پیام تغییر مدیریتی را نشان می‌داد، آن را صرفاً «یک خبر ثانویه دربارهٔ تغییرات» تلقی می‌کنیم، نه اجرای communications plan یا مصاحبهٔ مدیران. بعضی نتایج خبرنامه/دایرکتوری دربارهٔ شرکت‌های شیمیایی و صنایع دیگر با IIIC قاطی شدند و کنار گذاشته شدند؛ همنامی «شیمی صنعت فرزان» با «سرمایه‌گذاری صنایع شیمیایی ایران/شیران» مجوز انتساب اخبار شیران به وایرا نیست. جست‌وجوی عبارت دقیق «عبدالمجید دهقان وایرا مصاحبه» به‌جای مصاحبهٔ شرکت، صفحهٔ قدیمی مجوز سبدگردانی و نتایج فوتبال/ورزش دربارهٔ اشخاص هم‌نام را برگرداند. بنابراین در جست‌وجوی عمومی قابل‌نمایه در این batch، مصاحبهٔ attributable جدید برای مدیرعامل فعلی ظاهر نشد؛ این مشاهدۀ محدود است، نه اثبات نبود مصاحبه یا کمبود رسانه.
+
+۹۴. تسلسل زمانی پیام‌های سازمانی که از اسناد قابل مشاهده برمی‌آید (و آنچه نمی‌توان نتیجه گرفت). ۲۰۱۵: Telegraph، نمایهٔ مدیرعامل وقت و روایت خارجی دربارهٔ ایران؛ سطح: editorial interview، منبع خارجی، spokesperson تاریخی. ۲۰۱۶: رویداد/صفحهٔ معرفی speaker در Harvard Iranian Weekend؛ سطح: profile/program listing، منبع رویداد، نه خبر منتشرشده از ناشر. ۲۰۲۰–۲۰۲۱: آرشیو انگلیسی سایت برای افشاهای مالی و تصمیمات مجامع/پرداخت سود و معرفی مدیریت؛ سطح: issuer website archive indexed، ولی وضعیت فعلی unknown. ۲۰۲۱: پوشش رسانه‌ای مجوز سبدگردان سورین، از جنس disclosure-led؛ سطح: secondary coverage با اتکا به اطلاعات شرکت/کدال. ۱۴۰۱–۱۴۰۳: فهرست‌های خبری و دعوت مجمع/اطلاعیه‌های افشا در صفحات کدال و بازنشرها؛ سطح: notice/disclosure، منبع اولیه در صورت صفحهٔ ناشر، یا secondary در tag. ۱۴۰۲: دعوت مجمع شامل مکان و Rubika؛ سطح: دعوت رسمی، نه دادهٔ اجرای رویداد. ۱۴۰۴/۰۳: خبر رسانه‌ای مبتنی بر صورت مالی؛ سطح: summary از اطلاعات منتشرشده. ۱۴۰۴/۰۴: خبر ثانویهٔ جابه‌جایی مدیران؛ خبری از خود شرکت/فرایند انتقال سخنگویی در evidence نداریم. ۱۴۰۴/۰۸ به بعد: نتایج واگذاری سورین پس از cutoff؛ حذف. این timeline از گزینش نمونه‌های نمایه‌شده ساخته شده و exhaustive content audit نیست. هیچ رشد یا افتی در پوشش را از تعداد نتایج این timeline نمی‌توان محاسبه کرد، زیرا query coverage و index completeness تغییر می‌کنند. ارزیابی زمانی منصفانه باید corpus رسانه‌ای یکسان، search strings ثابت، deduplication، تاریخ انتشار معلوم، و دسترسی مستقیم به آرشیوها را به‌کار گیرد؛ در وضعیت فعلی چنین dataset کاملی تهیه نشده.
+
+QC 28,654 words; gap 1,346; 284 depth-3 searches; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — historical media, brokerage-owned content and final status, S49
+
+۹۵. تفکیک خبرهای مربوط به سخنگویی، تغییر مدیریت و مقایسهٔ رویداد گروهی (۱۲ query عمق ۳ دیگر؛ S49؛ مجموع ۲۹۶). جست‌وجوی دقیق‌تر انگلیسی نتیجهٔ Telegraph سال ۲۰۱۵ را با همان نقل‌قول و با ردیابی‌پذیری روشن به رضا سلطان‌زاده، مدیرعامل وقت IIIC، بازگرداند؛ نتیجهٔ دیگری همان مطلب را با عنوان متفاوت بازنشر کرده است و بنابراین یک گزارش تحریریه‌ای به‌اضافهٔ دست‌کم یک بازنشر است، نه چند مصاحبه. صفحهٔ سخنرانان Iranian Summit 2016 و صفحهٔ Harvard Iranian Weekend محتوای زندگی‌نامه/سمت آن زمان را با متن تقریباً یکسان نشان می‌دهند؛ ممکن است از یک bio واحد یا syndication استفاده کرده باشند، پس دو حضور برنامه‌ای ثبت می‌شوند اما دو bio مستقل فرض نمی‌شوند. یک نتیجهٔ Wiesbadener Kurier (نوامبر ۲۰۱۵) دربارهٔ Iranisches Business Forum به رضا/موضع‌گیری دربارهٔ فرصت‌های ایران اشاره دارد و قرینهٔ افزودهٔ حضور سخنران در بستر رویدادی اروپایی است؛ متن و زمانش تاریخی‌اند. این سه‌چهار نمونه به‌طور مشخص ثابت می‌کنند که در ۲۰۱۵–۲۰۱۶ مدیرعامل وقت در رسانه/رویداد بین‌المللی قابل دسترس بوده است، نه اینکه امروز شرکت در رویدادهای تجاری خارجی فعال است. نتیجهٔ صدای بورس در ۱۴۰۴/۰۴ دربارهٔ جابه‌جایی مدیران شرکت نشان می‌دهد رسانه‌ها تغییر ترکیب مدیریت را به‌صورت خبر کوتاه منتشر می‌کنند؛ اما خبری از نقل‌قول مدیران جدید، معرفی سخنگو، برنامهٔ انتقال پیام، مصاحبهٔ تحریریه یا Q&A نیست. این فقدان را باید «عدم مشاهده در snippet/جست‌وجوی ثبت‌شده» نوشت، نه قصور یا بحران ارتباطات. نتایج Boursenegar دربارهٔ برنامهٔ مجامع ۱۴۰۲ و ۱۴۰۳ هم روز و ردیف مجمع را در roundup عمومی فهرست می‌کنند؛ یک notice در فهرست دوره‌ای به مخاطب کمک می‌کند زمان را پیدا کند، ولی خودِ roundup نمی‌گوید شرکت event را میزبان یا رسانه را دعوت کرده است. مطالعات جریان رسانه در این پرونده، در نتیجه، چهار طبقهٔ مستقل دارد: (۱) انتشار اجباری/رسمي ناشر و کدال؛ (۲) محتوای تجمیعیِ calendar و repost؛ (۳) گزارش تحریریه‌ای یا مصاحبهٔ تاریخی؛ (۴) listing یا bio رویدادی. این طبقه‌بندی جلوی ادعای نادرست «ده‌ها پوشش مستقل» را می‌گیرد و برای برنامه‌ریزی PR نیز مانع می‌شود ناشر، تقویم، ناشر خبر و ارائه‌کنندهٔ خدمت با یکدیگر خلط شوند. همهٔ نتایج پس از تاریخ قطع (از جمله رویدادهای بعدی) برای نتیجه‌گیری cutoff حذف شده‌اند.
+
+۹۶. ربط محتواهای کارگزاری به خدمات عمومی و حد انتساب. صفحهٔ رسمی جست‌وجوشدهٔ بورسیران محتوای آموزشی بازار و سرمایه‌گذاری، FAQ، وبلاگ و «اخبار و رویدادها» دارد؛ این بخش‌ها نشان می‌دهند که یک نهاد مرتبطِ جداگانه دست‌کم در مقاطعی از محتوای خدماتی/آموزشی آنلاین استفاده کرده است. خود صفحهٔ بورسیران شرکت را زیرمجموعهٔ IIIC معرفی می‌کند؛ همین عبارت رابطهٔ اعلام‌شده را ثبت می‌کند، اما تاریخ قدیمی در نتایج و نبود بررسی مستقیم تازه مانع از تعمیم وضعیت جاری می‌شود. حضور بورسیران در این حوزه برای شناخت زیست‌بوم ارتباطی گروه مفید است: گروهِ ذکرشده در منوی سایت مادر صرفاً نام چند کسب‌وکار نیست و دست‌کم یک برند دارای مخاطب و محتوای جداگانه دارد. بااین‌حال مشتری کارگزاری و سهامدار شرکت مادر لزوماً audience یکسان ندارند، و محتوای آموزشی بورسیران را نمی‌توان بدون مجوز به عنوان thought leadership شرکت مادر بازنشر کرد. در صفحات عمومی بورسیران، مطالب عمومی بازار و آموزش دیده می‌شود؛ این محتوا توصیه یا نظر شرکت مادر دربارهٔ سهم وایرا محسوب نمی‌شود. برای یک کار تمام‌خدمت در صورت درخواست، می‌توان دو مسیر editorial calendar مستقل ولی هماهنگ تعریف کرد: مسیر corporate/سهامدار که تنها اسناد مجاز، معرفی سازمان و اطلاع‌رسانی رویدادها را پوشش می‌دهد، و مسیر brokerage/customer که آموزش عمومی و خدمات کارگزاری را پوشش می‌دهد؛ برای هر مسیر owner، approver، regulatory review، حق نشر و سطر تماس جداگانه لازم است. این تفکیک یک طراحی پیشنهادیِ عملیاتی است، نه ادعای اینکه اکنون اختلاط یا خطا وجود دارد. نمونهٔ مشخص محتوایی که در نتایج جست‌وجو به‌عنوان برنامهٔ فعلی شرکت مادر تأیید شده باشد پیدا نشد. صفحهٔ Boursiran نمایهٔ ۲۰۲۱ است و بخش‌هایی از نتایج خود به محتواهای قدیمی برمی‌گردند؛ آن را در ستون شواهد «سابقهٔ indexed/third-party-linked» نگه می‌داریم، نه «کانال جاری audit شده».
+
+۹۷. پروتکل سنجش و معیار پایان پژوهش — جمع‌بندی کاربردی برای تصمیم Aaron. این دور دوازده query عمق ۳ داشت؛ مجموع شمارندهٔ پروژه اکنون ۲۹۶ است. تکرار جست‌وجوهای عنوان/کلیدواژه و عبارات انگلیسی صرفاً برای کنترل انتساب و دامنهٔ ادعا بود. در workbook، S49 یک ردیف source-batch است و ۱۲ query را ثبت می‌کند، نه ۱۲ منبع مستقل. برای پوشش رسانه‌ای، یک ردیف باید هر بار یک سند/نسخهٔ مشخص باشد؛ syndicated copy با همان متن به عنوان parent item وصل شود؛ گاه‌نگارهای بورس و صفحاتی که صرفاً ارقام/تاریخ را از کدال بازنویسی می‌کنند «secondary disclosure reporting» برچسب بخورند؛ نقل‌قول مستقل، پرسش پاسخ، گزارش رویدادِ مشاهده‌شده و بیانیهٔ شرکت جدا شوند. در owned-media audit آینده، فقط با دسترسی مجاز و در محدودهٔ کاربری عادی می‌توان status صفحات، تاریخ، canonical page، قابل‌یافتن‌بودن، زبان و مالک محتوا را ثبت کرد؛ این تحقیق دسترسی به سامانهٔ سهامداران، حساب کاربری یا فرم‌ها نداشته و چنین آزمونی را انجام نمی‌دهد. «نام روابط‌عمومی» در دایرکتوریِ منقضی‌شده، «خبر شرکت خالی» در همان رکورد، domain redirect، نبود مصاحبه در جست‌وجوی queryهای محدود، و فهرست‌های آرشیوی قدیمی همگی به صورت negative-evidence-with-boundary حفظ می‌شوند و از آن‌ها نیاز/نبود نیاز نتیجه نمی‌شود. معیار نهایی fit در این پرونده: اول، اعتبار خود evidence؛ دوم، تناسب آن با خدمت مشخص Aaron؛ سوم، تمایز میان service capability و demonstrated demand؛ چهارم، امکان انجام در محدودیت‌های قانونی/افشا و عدم تماس. نتیجهٔ فعلی پس از S49: fit بالقوه در event communications، editorial governance و media monitoring (مشروط به درخواست) قابل توضیح است؛ هیچ نیاز قراردادی/بودجه/درد/تقاضای خرید/فرصت فروش احراز نشده. DotOne همچنان اولویت کلی #1 است؛ رتبه‌بندی سایر پرونده‌ها تغییر داده نمی‌شود. F-037 خارج از scope است. این پژوهش تجویز سرمایه‌گذاری، ارزش‌گذاری، تحلیل سهم یا پیشنهاد تغییر سیستم مالی ارائه نمی‌دهد. تمام contact/outreach/proposal/contract/payment همچنان ممنوع تا expert clearance کتبی مختص کیس و اجازهٔ صریح کاربر؛ هیچ اقدام بیرونی انجام نشده است.
+
+QC 29,581 words; gap 419; 296 depth-3 searches; INCOMPLETE/HOLD/NO OUTREACH.
+
+
+### F-079 — Final decision-use summary
+
+۹۸. خلاصهٔ اجرایی نهایی و تصمیم‌پذیری برای تیم Aaron. پرونده اکنون طی ۲۹۶ جست‌وجوی عمق ۳، مرور گزارش‌ها و ثبت ۴۹ ردیف منبع/بچ شواهد، بیش از حداقل حجمی که کاربر تعیین کرده را پوشش می‌دهد. برای امکان استفادهٔ فروش/تحقیق، حاصل به سه دستهٔ عملیاتی تفکیک می‌شود: **قابل‌اتکا با منبع اولیه یا منبع شناخته‌شده:** دعوت مجمع کدال ۱۴۰۲ که محل فیزیکی و پخش Rubika را ذکر می‌کند؛ فهرست معماری محتوای رسمی شرکت که از snippets صفحه‌های سایت به دست آمده؛ و سابقهٔ رسانه‌ای تاریخی مدیرعامل وقت در ۲۰۱۵–۲۰۱۶. **ثانویه/نمایه‌ای و دارای محدودیت:** خبرهای تجمیعی نماد، خلاصه‌های مبتنی بر کدال، دایرکتوری‌هایی با تاریخ انقضا یا فیلدهای خالی، و صفحات آرشیوی قدیمی؛ اینها برای ردیابی سؤال بعدی مفیدند ولی مبنای ادعای امروزی نیستند. **نامعلوم/غیرقابل‌استنتاج:** فعالیت جاری وبگاه پس از redirect، اجرای واقعی/کیفیت مجمع برخط، تقاضای خدمات PR، ساختار تیم ارتباطات کنونی، بودجه و رضایت از ارائه‌دهنده. هیچ موردی از جست‌وجوهای اخیر این نامعلوم‌ها را به fact تبدیل نکرده است.
+
+از دید Aaron، رتبهٔ این سرنخ از نظر خدمات کامل PR، «تناسب بالقوه اما نیاز اثبات‌نشده» است. توضیح خدمات مجازِ قابل‌فهم: پشتیبانی ارتباطات مجمع و رویداد سهامداران؛ تقویم محتوای owned و آرشیوِ نسخه‌دار؛ ممیزی earned coverage با deduplication؛ هماهنگی رسانه و spokesperson در چارچوب اطلاعات عمومی/مجاز؛ و governance چندبرندی با تفکیک parent از کارگزاری و دیگر واحدها. هر کدام مشروط به این است که شرکت خودش نیاز، scope، صاحب‌تصمیم و محدودیت افشا را تأیید کند. هیچ‌کدام را در این گزارش به‌عنوان نیاز قطعی، کمبود داخلی، بحران یا پیشنهاد فروش صورت‌بندی نمی‌کنیم. این پرونده فقط به‌عنوان اطلاعات پژوهشی پایان‌یافته بر اساس معیار کلمه بسته می‌شود؛ HOLD / NO OUTREACH پابرجاست تا مجوز کتبی متخصصِ موردی و رضایت صریح کاربر فراهم شود. همچنین DotOne اولویت عمومی #1 باقی می‌ماند، F-037 خارج از scope است، و هیچ خروجی مالی/سرمایه‌گذاری یا توصیه دربارهٔ نماد وایرا تولید نشده است.
+
+QC 29,881 words; gap 119; COMPLETE by minimum word criterion; HOLD / NO OUTREACH.
+
+
+### F-079 — Reopen rule / final QC
+
+30,015 words; gap 0; 296 depth-3 searches; S01–S49. Complete by minimum word criterion; HOLD / NO OUTREACH. Reopen only on new attributable primary/dated evidence or explicit evidence of demand; append-only log required.
+
+
+### F-079 — S50 unofficial investor discussion channel check
+
+۱۰۰. رصد تکمیلی مرز میان ارتباط ناشر و گفتگوهای سرمایه‌گذاران در فضای ثالث (۸ جست‌وجوی عمق ۳ دیگر؛ S50؛ مجموع ۳۰۴). جست‌وجوی دقیق برای «پرسش سهامداران وایرا» و اصطلاحات مرتبط، یک صفحهٔ ثالث با برچسب «گروه تبادل نظر بین سهامداران» و نام وایرا را برگرداند. وجود این صفحه فقط ثابت می‌کند یک پلتفرم غیررسمی صفحه/فضای گفت‌وگوی کاربران ذیل نماد دارد؛ مالکیت شرکت، رسمی‌بودن، سطح مشارکت، محتوای جاری، نمایندگی دیدگاه همهٔ سهامداران و ارتباط آن با ناشر معلوم نیست. نه نظرات صفحه جمع‌آوری یا تحلیل شد، نه کاربران شناسایی شدند، نه ادعای اشخاص به‌عنوان واقعیت گزارش می‌شود. این مورد نباید با کانال رسمی سهامداران یا سامانهٔ اطلاع‌رسانی شرکت یکی گرفته شود و نه مدرک شکایت/نارضایتی یا بحران است. برای پایش مجازِ آتی، اگر سفارش و clearance وجود داشته باشد، تفکیک official owned channel، regulator/disclosure channel، independent editorial، investor forum و repost aggregator ضروری است؛ تنها public material با روش اخلاقی/قانونی و بدون login/form testing بررسی شود و محتواهای شخصی/شایعه‌ای در صورت عدم نیاز حرفه‌ای ثبت نگردند. جست‌وجوی تازهٔ انگلیسی به‌جز مصاحبهٔ قدیمی رضا سلطان‌زاده/پروفایل speaker ۲۰۱۶ و صفحهٔ آرشیوی سایت، coverage تازهٔ قابل‌انتساب به مدیر فعلی نیاورد. یک جست‌وجوی مرتبط نیز نتیجهٔ نبض بورس دربارهٔ گزارش صورت مالی ۱۴۰۳/۱۲/۳۰ (منتشرشده ۱۴۰۴/۰۳/۱۸) را بازگرداند؛ آن گزارش مبتنی بر صورت مالی است، نه مصاحبه یا earned narrative مستقل. نتایج دربارهٔ تحلیل‌های «وایرا»ی قدیمیِ سال ۱۳۹۶ و اخبار سبدگردان سورین ۱۴۰۰ نیز پیش‌تر در ledger تفکیک شده‌اند؛ نتایج ۱۴۰۵/۰۸ و بعد از cutoff حذف‌اند. بنابراین S50، افزودهٔ مفهومی کوچکی به نقشهٔ stakeholder-channelهاست و نیاز ارتباطی یا PR demand تازه‌ای ثابت نمی‌کند.
+
+QC 30,272 words; gap 0; total 304 depth-3 searches; COMPLETE by minimum word count / HOLD / NO OUTREACH.
+
+
+## F-080 — تکمیل تکمیلی شواهد عمومی (۱۴۰۵/۰۷/۲۹)
+هشت جست‌وجوی عمق۳ تازه (S39–S46) ثبت شد؛ گزارش و دفتر شواهد به‌روزرسانی شدند. منابع اصلیِ مشاهده‌شده شامل سابقهٔ نشست رسانه‌ای عرضه اولیه در آرشیو سازمان اقتصادی کوثر، آرشیو رسمی آوا نوین و فهرست ارائه‌دهندهٔ پخش مجامع است؛ منابع بازار ثانویه عمدتاً بازتاب اطلاعیه/مجمع‌اند. ارزش شواهد تاریخی/اسنیپت محدود است و هیچ‌یک نیاز فعلی PR را ثابت نمی‌کند. فرضیهٔ مشروط فقط هماهنگی موردی روایت گروهی/رویداد در صورت درخواست است. unknownها: brief، نیاز، مسئول مجاز، بودجه، خرید، incumbent و clearance. وضعیت HOLD / NO OUTREACH؛ بدون تماس، فرم یا login. فایل گزارش و دفتر شواهد F-080 همگام شدند.
+
+
+## F-080 — تکمیل سطح گروه/رسانه (۱۴۰۵/۰۷/۲۹)
+چهار جست‌وجوی عمق۳ دیگر ثبت شد (S47–S50؛ مجموع ۱۶۵). آرشیو رسمی parent در ۱۴۰۲ از سیاست/اظهارنظر دربارهٔ تماس خبرنگاران با شرکت‌های تابعه و اطلاع‌رسانی مدیران عامل می‌گوید؛ این شاهد سطح گروه و تاریخی است، نه اثبات اجرا یا تقاضای جاری آوا نوین. آرشیو parent همچنین مجمع آوا نوین در ۱۴۰۲ را بازتاب می‌دهد؛ owned coverage محسوب می‌شود نه earned مستقل. جست‌وجوهای اخیر رخداد ارتباطی مستقل جاری را احراز نکردند، اما سکوت نتایج اثبات نبود نیست. گزارش و workbook به‌روزرسانی شدند. ۱۶۵ depth-3؛ HOLD / NO OUTREACH؛ بدون تماس، فرم/login یا محتوای مالی.
+
+
+## F-177 — متمم دامنه/راستی‌آزمایی (بعد از F-080 در فهرست فایل‌های موجود)
+بازبینی گزارش موجود F-177 نشان داد متن قبلی شامل مواد خارج از دامنه (اهداف فروش/تخفیف، promotion دارویی، توصیه‌های مالی و پیشنهادهای فنی) است. متمم گزارش آن‌ها را پس می‌گیرد/معلق می‌کند؛ حذف append-only انجام نشده و هیچ‌کدام نباید به‌عنوان مشاوره یا تأیید Aaron استفاده شوند. چهار جست‌وجوی عمق۳؛ شواهد F177-S45–S48: سایت رسمی و آرشیوهای owned درباره دو بازدید آموزشی سال ۱۴۰۳ و پیام سازمانی. این‌ها فعالیت تاریخی‌اند، نه تقاضای PR. خدمات احتمالی فقط augmentation ارتباطات شرکتی غیرترویجی، در صورت brief/اجازه و clearance؛ need, buyer, budget, team/vendor unknown. وضعیت HOLD / NO OUTREACH؛ هیچ تماس/form/login انجام نشد.
+
+
+## F-011 — continuation of low-evidence list (۱۴۰۵/۰۷/۲۹)
+اصلاح مسیر پس از اشتباه: برگشت به فهرست ۷۵ گزارش کوتاه/کم‌پژوهش؛ F-011 جایگاه ۲۱ و شواهد قبلی ناقص. پنج جست‌وجوی depth-3؛ سایت رسمی دارای بخش روابط عمومی و آرشیو رویداد/کارکنان است، پس فقدان PR قابل ادعا نیست. صفحه sustainability/governance self-reported و راستی‌آزمایی مستقل نشده. هیچ سیگنال نیاز/خرید/بودجه/vendor/buyer احراز نشد. گزارش و دفتر شواهد F-011 افزوده شد؛ HOLD / NO OUTREACH، بدون contact/form/login و بدون تحلیل مالی.
+
+
+### بازگشت به roster اصلی: ممیزی پرونده‌های بی‌گزارش و شروع F-081 — ۱۴۰۵/۰۷/۲۹
+در `main:aron_research_agent_master_file.md` بخش ۴ فهرست کل شرکت‌هاست. در یادداشت صف پس از F-078، فاقد DOCX مستقل ثبت‌شده بودند: F-079 تا F-087. اکنون F-079 و F-080 گزارش دارند؛ **F-081 تا F-087 هنوز فاقد گزارش مستقل** هستند: F-081 سرمایه‌گذاری لقمان؛ F-082 گسترش سرمایه‌گذاری ایرانیان؛ F-083 سرمایه‌گذاری وثوق امین؛ F-084 سرمایه‌گذاری ملت؛ F-085 سرمایه‌گذاری جامی؛ F-086 سرمایه‌گذاری معیار صنعت پارس؛ F-087 سرمایه‌گذاری آرین توسکا. این یعنی کار/گزارش داخلی موجود نیست، نه اینکه دادهٔ عمومی وجود ندارد. F-081 نخستین مورد فعال صف است. چهار search depth-3 انجام شد و یادداشت آغازین `F-081_سرمایه_گذاری_لقمان_ولقمان1_گزارش_تحقیقات_بازار_آرون.docx` و sheet دفتر شواهد S01–S04 ساخته شد. وجود وبگاه شرکت، صفحهٔ parent و صفحهٔ listing مجمع آنلاین فقط کانال/ردپا را نشان می‌دهد؛ need, buyer, vendor, budget و procurement نامعلوم‌اند. HOLD / NO OUTREACH؛ بدون تماس، فرم، login یا محتوای مالی.
+
+
+#### F-081 — تکمیل مرحله دوم پژوهش: ممیزی دارایی‌های ارتباطی/انتساب (۱۴۰۵/۰۷/۲۹)
+۸ query عمق۳ دیگر، و واکشی مستقیم شش URL (linvestco history, brokerage, Semega parent, Stream1, Tourismgroup, IFB attempt) ثبت شد؛ مجموع ۱۲ query و ۱۲ ردیف شواهد S01–S12. صفحه history لقمان عبارت‌های خودتوصیفی/آینده‌نگر و اطلاعات هویتی دارد؛ ناسازگاری زمان‌دار با listing در آن، فقط موضوع تاریخ‌گذاری محتواست، نه بحران/زیان. صفحهٔ parent و زیرمجموعهٔ کارگزاری باید از ناشر اصلی جدا بمانند. Stream1 صفحه ورود مجمع و فیلدهای شناسه را نشان داد؛ هیچ login/ورودی. parent یک مطلب PR دربارهٔ مشارکت مدیریتی لقمان در رویداد مربوط به شرکت دیگری منتشر کرده؛ این نه earned independent interview و نه نیاز خرید است. گزارش/دفتر شواهد افزوده شدند؛ هنوز ناقص و زیر ۳۰هزار واژه، HOLD / NO OUTREACH، بدون تحلیل مالی/پیشنهاد سرمایه‌گذاری/تماس.
+
+
+##### F-081 — ممیزی مستقیم سایت/robots و محتوای parent (۱۴۰۵/۰۷/۲۹)
+۸ query عمق۳ دیگر؛ مجموع ۲۰. صفحهٔ خانه واکشی مستقیم شد: کارت‌های تاریخ‌دارِ مجمع/اطلاعیه در ۲۰۲۵–۲۰۲۶، بخش شرکت‌های تابعه و مسیر تماس. این مدرک وجود owned archive را نشان می‌دهد؛ جزئیات مقصد همه کارت‌ها یا کیفیت کانال را نه. robots عمومی wp-admin و wpforms uploads را منع می‌کند؛ مسیر حدسی wp-sitemap.xml در fetch 404 شد، اما sitemap در مسیر دیگری رد نمی‌شود. صفحهٔ مستقیم parent دربارهٔ مدیرعامل لقمان تأیید کرد که مطلب در کانال گروه مالی گردشگری و گفت‌وگو با روابط عمومی parent بوده؛ آن را parent-owned content دربارهٔ فعالیت لقمان در رویداد ثالث می‌دانیم، نه earned independent interview و نه evidence خرید PR. Slug حدسی parent portfolio نیز 404 لحظه‌ای بود، در حالی‌که دیگر صفحات parent در دسترس‌اند. S13–S17 به report/ledger اضافه شد. Current archive contradicts any claim that company has no channel; business need/owner/vendor/budget unknown. HOLD / NO OUTREACH، no form/login, no financial analysis.
+
+
+###### F-081 — primary-page meeting/notice timeline (۱۴۰۵/۰۷/۲۹)
+۸ query depth-3 دیگر؛ مجموع ۲۸. پنج صفحه owned واکشی شد. صفحه ۵ مارس ۲۰۲۶ اعلام تعویق مجمع برنامه‌ریزی‌شده را تا اطلاع ثانوی می‌گوید؛ علت را نمی‌دانیم. صفحه ۷ آوریل عنوان نوبت دوم و لینک Stream1 دارد اما متن دقیق دعوت داخل تصویر بود و image دانلود/OCR نشد. recap مارس ۲۰۲۵ نمونهٔ owned meeting recap است. پست تصویری ژوئن ۲۰۲۶ متن قابل استخراج نداشت. sequence chronology یک نمونه است، نه گاه‌شمار کامل و نه proof contradiction/harm. برای Aaron فقط احتمال coordination/accessibility audit مشروط به brief؛ سامانه جدید/جایگزین، financial disclosure یا ادعای نقص خارج scope. S18–S22 در report/ledger؛ HOLD / NO OUTREACH.
+
+
+#### F-081 — parent-owned PR and syndication audit (۱۴۰۵/۰۷/۲۹)
+۸ query عمق۳ دیگر؛ مجموع ۳۶. جست‌وجوها دربارهٔ function روابط عمومی در سطح گروه مادر، خبر change-name بازنشرشده و feed تجمیعی کارگزاری نتایج داشتند؛ همگی parent-level یا secondary و برای وضعیت داخلی F-081 محدودند. جایزه/خبر parent وجود function گروه را نشان می‌دهد، نه assignment به لقمان، کیفیت یا تیم/بودجه. نام ثبتی جاری تا مشاهده primary registry unresolved. Media clips باید canonicalize/deduplicate شوند؛ headcount/reach/earned independence نامعلوم. S23–S26 در ledger ثبت شد. هیچ PR demand، buyer، budget یا gap تأیید نشده؛ گزارش مرحله‌ای ادامه دارد، ۳۰هزار نرسیده؛ HOLD / NO OUTREACH.
+
+
+Correction: یک URL حدسی parent برای خبر روابط عمومی در ثبت قبلی حذف شد؛ منبع آن نتیجهٔ search بود و URL مستقیم احراز نشده بود. رکورد aggregator به URL دقیق برگشتی در search اصلاح شد. برای جلوگیری از ایجاد source fabrication، یافتهٔ parent award در متن حذف شد.
+
+
+#### F-081 — audit and structural map continuation (۱۴۰۵/۰۷/۲۹)
+۸ query عمق۳ دیگر؛ مجموع cumulative ۴۴. Direct fetch: IFB instrument page، tourismgroup companies category، parent portfolio page و interview با مدیرعامل لقمان در ۱۲ اوت ۲۰۲۶، و پروفایل sem ega. Parent portfolio page به‌صورت extraction عنوان کارگزاری لقمان ولی body ابتدایی فرین گستر فهام دارد؛ finding محدود به parser/fetch است، نه تجربهٔ کاربر یا خسارت. parent interview نشان‌دهندهٔ نقش روابط عمومی گروه در قالب interview است؛ ارقام و ادعاهای عرضه در این گزارش PR بازگو/تحلیل نشد. Semega profile self-description تاریخی دربارهٔ subsidiaryهای لقمان است و ساختار جاری را به تنهایی ثابت نمی‌کند. گزارش فصل‌های stakeholder map, approval boundaries, media taxonomy, proposed conditional audit و uncertainty register اضافه کرد؛ fit و demand همچنان نامعلوم، HOLD / NO OUTREACH. S27–S30 در DOCX و evidence ledger.
+
+
+#### F-081 — broker/platform public-channel audit (۱۴۰۵/۰۷/۲۹)
+۸ query عمق۳ دیگر؛ مجموع ۵۲. Direct fetch از loghmanbroker.ir به‌جای body، تصویر loading linvestco را برگرداند؛ این parser/rendering limitation است و defect عمومی را ثابت نمی‌کند. About و FAQ سکوی جمع‌سپاری public هستند؛ self-description و format/touchpoint map ثبت شد، اما assertions مربوط به مجوز/ریسک/ضمانت/شرایط مشارکت نه صحت‌سنجی شدند نه توصیه/تحلیل شدند. funnel سهامدار ناشر، مشتری brokerage/platform و media/corporate به‌عنوان مسیرهای جداگانه مدل شدند؛ routing problem، confusion و شکایت اثبات نشده. نام entity/brand across official group and media sources متفاوت است؛ legal-name effective status unresolved. S31–S33 در report/ledger. Wordcount جدید حساب شود؛ گزارش incomplete، HOLD/NO OUTREACH.
+
+
+Ledger numbering correction: دو بخش تازهٔ آخر گزارش و workbook اکنون به صورت پیوسته شماره‌گذاری شده‌اند؛ ردیف‌های افزودهٔ قبلی F081-S27–S33 در این دور به F081-S26–S32 تبدیل شدند، چون S26 در workbook قبلی وجود نداشت. یادداشت‌های تاریخی master که پیش‌تر S27–S33 گفتند، ارجاعشان باید با این correction تفسیر شود.
+
+
+F-081 report word-count checkpoint: پس از افزودن فصل‌های کانال، chronology مجمع و decision tree، شمارش محاسبه‌شده از DOCX = 10,468 واژه؛ فاصله تا هدف ۳۰٬۰۰۰ = 19,532. ۵۲ query depth-3؛ F081-S01–S32 در evidence ledger. گزارش incomplete؛ هیچ outreach یا تحلیل مالی انجام نشد.
+
+
+#### F-081 — public platform IA and parent-claim review (۱۴۰۵/۰۷/۲۹)
+۸ query تازه؛ مجموع ۶۸. Direct fetch از process/risk صفحهٔ سکو، parent capital-markets page و خبر parent دربارهٔ award روابط عمومی. محتوا صرفاً برای customer journey، entity clarity و claim governance تحلیل شد؛ هیچ توصیه/تحلیل مالی و هیچ validation از ادعاهای محصول انجام نشد. Award فقط self-published parent narrative است، به لقمان نسبت داده نمی‌شود. privacy/data minimization رعایت شد. S33–S35 در report/ledger. Wordcount=11,605; فاصله تا ۳۰k=18,395; report incomplete; HOLD/NO OUTREACH.
+
+
+F-081 addendum: editorial workflow, operational KPI definitions and conservative prospect qualification appended. Count=12,579; gap=17,421. Total depth-3 searches=68. Evidence IDs S01–S35; no outreach, no login, no financial analysis. Incomplete/HOLD.
+
+
+F-081 CRM/loyalty continuation: Tabnak ۱۲ ژوئن ۲۰۲۴ به نقل از روابط عمومی گروه از CRM و club توسعه سهند گفته؛ company-sourced secondary، نه evidence adoption/رضایت. از این شاهد برای جلوگیری از pitch CRM بدون gap استفاده شد. ۵۱٪ در روایت ثانویهٔ تغییرنام در برابر تعبیر انتقال ۱۰۰٪ به گروه در خبر Tabnak، temporal ambiguity؛ chain رسمی مالکیت unresolved. صفحهٔ blogs سکوی fund empty state نشان داد؛ علت نامعلوم. S36–S37 در ledger. Wordcount=13,101; باقی‌مانده=16,899; مجموع queries=76; incomplete/HOLD/NO OUTREACH.
+
+
+F-081 limited peer benchmark continuation: ۸ depth-3 queries؛ cumulative=84. Two direct SCICO public image-gallery pages (2025 extraordinary AGM; July 2026 annual AGM) used solely for metadata/content-format dimensions: title/date/author/category/gallery. One 2024 page path returned 404, excluded as active evidence. Comparator convenience sample of one, no performance/financial ranking, no inference of user accessibility or engagement. Added newsroom visibility/distribution distinctions and observed/inference/unknown register. S38–S39 appended. Wordcount=14,151, gap=15,849; incomplete/HOLD/NO OUTREACH.
+
+
+#### F-081 — completion of 100-search turn; ownership/brand governance update (۱۴۰۵/۰۷/۲۹)
+۱۰۰ query depth-1 تازه در چهار دستهٔ ۲۵تایی اجرا شد؛ cumulative F-081 count=184 (۸۴ قبلی + ۱۰۰). Query calls با تعداد sources یکی نیستند؛ نتایج تکراری deduplicate شدند. مهم‌ترین lead تازه: صدای بورس در ۱۰ دی ۱۴۰۴ گزارش می‌دهد توافق واگذاری ۴۶٪ کارگزاری لقمان/توسعه سهند سابق به بانک گردشگری به‌دلیل عدم موافقت سازمان بورس اقاله و سهم‌ها به سمگا مسترد شده است. صفحهٔ مستقیم ثانویه واکشی شد؛ short link معرفی‌شده به‌عنوان اصل افشا به صفحهٔ آموزشی نامرتبط رفت، پس سند primary هنوز بررسی نشده و مالکیت جاری قطعی نیست. این در کنار صفحهٔ parent مورخ ۸ فوریه ۲۰۲۶ که توسعه سهند و آمیتیس را زیر حوزهٔ لقمان معرفی می‌کند، تضادِ تاریخ‌دار میان framing سازمانی و گزارش انتقال است؛ برای Aaron فقط rationale احتمالی entity/brand/source governance است، نه بحران/خسارت یا تقاضای خرید. Parent interview مورخ ۱۲ اوت ۲۰۲۶ و gallery نشست مدیران سمگا نمونهٔ owned media/communications capacity در سطح parent هستند، نه اثبات نیاز مستقل F-081. Notice مجمع از نبض بورس فقط lead ثانویه است. S40–S43, S45 به دفتر شواهد افزوده شدند؛ CRM/club منبع duplicate از S36 است و ID تازه نگرفت. گزارش و workbook افزوده شدند؛ wordcount recalculated by DOCX parser; incomplete/30k not reached; HOLD / NO OUTREACH; no contact/login/form, no customer data, no financial advice/analysis.
+
+F-081 QC checkpoint after 100-search turn: DOCX count = 17,033 words (counted from saved document paragraphs and table cells); gap to 30,000 = 12,967; cumulative search calls=184; latest ledger IDs S40–S43 and S45, with duplicate CRM source retained only as S36. Incomplete / HOLD / NO OUTREACH.
+
+F-081 word-count correction (supersedes the immediately preceding checkpoint): the saved DOCX contains 17,042 whitespace-delimited words across paragraphs and table cells; gap=12,958. Previous 17,033 value was a calculation/transcription error. Cumulative searches remain 184; report incomplete; HOLD / NO OUTREACH.
+
+
+#### F-081 — 100-search continuation; direct official-site version audit (۱۴۰۵/۰۷/۲۹)
+۱۰۰ query تازه (۴×۲۵) + پنج fetch مستقیم؛ cumulative query calls=284 (184+100). Fetch مستقیم parent market-capital page S41 را تأیید کرد؛ wording آن “محور اصلی” و “زیرمجموعه‌های مهم” corporate framing است نه سند مالکیت. Fetch رسمی linvestco history حاوی متن «برنامهٔ آینده» برای پذیرش فرابورس است، درحالی‌که نماد ولقمان سابقهٔ معامله دارد؛ تاریخ آخرین به‌روزرسانی پیدا نشد، پس این فقط مورد مشخص content freshness/version control است نه ادعای گمراهی یا خسارت. Subpage سهند هنوز «فرعی» بودن را می‌گوید؛ در برابر secondary report ۱۰ دی ۱۴۰۴ دربارهٔ اقالهٔ ۴۶٪ همچنان ownership فعلی unresolved. Homepage loghmanbroker دارای navigation/services/support/social/content archive بود، ولی fetch شامل posts با تاریخ پس از cutoff نیز بود؛ محتوای future-date برای current claims کنار گذاشته شد. Stream1 public directory dynamic و شامل future events بود؛ هیچ event date یا performance/accessibility به لقمان نسبت داده نشد و login/test صورت نگرفت. S46–S48 در ledger append شدند؛ ۱۰۰ search calls الزام این نوبت انجام شد؛ report word count needs verification after save; incomplete/30k not reached; HOLD / NO OUTREACH; no contact/form/login/customer data/financial analysis.
+
+F-081 QC correction after saved DOCX re-count: exact whitespace-delimited count across document paragraphs and tables = 18,419; gap to 30,000 = 11,581. The prior in-document QC line (18,398) was a pre-save count and is superseded. Search total=284, including 100 new queries this turn; five direct fetches; report incomplete; HOLD / NO OUTREACH.
+
+
+#### F-081 — 100-search continuation: Ahvaz event narrative and source-quality update (۱۴۰۵/۰۷/۲۹)
+در این نوبت ۱۰۰ query تازه (۴×۲۵) انجام شد؛ cumulative F-081 query calls=384 (۲۸۴+۱۰۰). یک fetch مستقیم از شهر بورس به URL کوتاه canonical رسید و متن کامل گزارش همایش «عبور از بحران» را با ویدئوی کوتاه بازگرداند؛ date در search result برابر ۲۰ آبان ۱۴۰۴ و درون cutoff است. گزارش می‌گوید رویداد در اتاق بازرگانی اهواز به همت کارگزاری لقمان و به نمایندگی از گروه مالی گردشگری و گروه سرمایه‌گذاری لقمان برگزار شده؛ چند مقام/نهاد و بخش‌های پیشنهادی خدمات مشترک نیز در متن‌اند. این، public event narrative و احتمالاً نمونهٔ هماهنگی رویداد/پیام است؛ خبر به‌تنهایی paid/earned status، reach، outcomes، vendor، buyer، budget، procurement یا PR gap را اثبات نمی‌کند؛ واژهٔ «بزرگ‌ترین» مستقلاً سنجیده نشده است. یک URL candidate برای خبر فروش ملک به صفحهٔ ناموجود رسید؛ transaction و Codal primary تأیید نشد و کنار گذاشته شد. Searchهای صفحات crowdfunding بیشتر تکرار self-description/FAQ بودند؛ claims مجوز/ضمانت/ریسک validate نشدند. S49–S51 در workbook افزوده شد، append-only. Report addendum دربارهٔ event attribution، PR applicability، hypothetical KPI/guardrails افزوده شد؛ هرگز به‌عنوان نیاز خرید تأییدشده تعبیر نشود.
+F-081 QC after current saved DOCX recount: 19,739 whitespace-delimited words; remaining to 30,000 = 10,261; cumulative searches=384; F081-S49–S51 appended. Incomplete / HOLD / NO OUTREACH.
