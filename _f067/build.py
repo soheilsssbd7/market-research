@@ -31,22 +31,45 @@ def ren(s):
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
+def _caption_for(key):
+    head, rows = TABLES[key][0], TABLES[key][1]
+    lead = str(head[0]) if head else 'داده'
+    example = str(rows[0][0]) if rows and rows[0] else ''
+    detail = f'؛ نمونهٔ نخست: {example}' if example else ''
+    return f'@QC|جدول {{N}} — {lead}{detail}'
+
+
 def load_parts():
+    global TMAP
     out = []
-    for i in range(1, 46):
+    TMAP = {}
+    referenced = set()
+    for i in range(1, 47):
         p = os.path.join(BASE, 'p%02d.py' % i)
         if not os.path.exists(p):
             continue
         spec = importlib.util.spec_from_file_location('p%02d' % i, p)
         m = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(m)
-        out.extend(m.P)
+        for part in m.P:
+            if part.startswith('@T|'):
+                key = part.split('|', 1)[1]
+                if key in TMAP:
+                    if key not in referenced:
+                        out.append(f'@NOTE|این جدول پیش‌تر آمده است؛ برای جلوگیری از تکرار به جدول {TMAP[key]} مراجعه کنید.')
+                        referenced.add(key)
+                    continue
+                TMAP[key] = str(len(TMAP) + 1)
+                out.append(part)
+                out.append(_caption_for(key))
+            else:
+                out.append(part)
         out.append('@PAGEBREAK|')
     return out
 
 from tables import TABLES as TABLES
 
-TMAP = {k: str(i + 1) for i, k in enumerate(sorted(TABLES, key=lambda x: int(x[1:])))}
+TMAP = {}  # populated in first-appearance order by load_parts()
 
 _BIDI_SUCC = ('w:adjustRightInd', 'w:snapToGrid', 'w:spacing', 'w:ind', 'w:contextualSpacing',
               'w:mirrorIndents', 'w:suppressOverlap', 'w:jc', 'w:textDirection', 'w:textAlignment',
@@ -109,7 +132,6 @@ def add_table(doc, key):
         for i, w in enumerate(widths):
             for row in t.rows:
                 row.cells[i].width = Cm(w)
-    doc.add_paragraph()
 
 
 def main():
